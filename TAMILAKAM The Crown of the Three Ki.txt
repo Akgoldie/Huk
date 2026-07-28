@@ -1,0 +1,1114 @@
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 1 of 20
+Executive Overview & Master Structure
+Welcome to the consolidated master rulebook for TAMILAKAM: The Crown of the Three Kings. This rulebook merges all base game mechanics, modular expansion annexures, historical refinements, and economic patches into a clean, unified text designed for easy export and copy-pasting into word processors. 
+The game simulates the structural struggle of ancient South India across two opposing state-building models: 
+    • Vertical Imperial Monarchs (Muvendhar): The Chola, Pandya, and Chera dynasties scaling wet-rice deltas, international maritime trade, and Agamic temple networks. 
+    • Horizontal Highland Chieftains (Velir): The Malaiyaman, Irungolar, and Vanar clans leveraging dryland millet economies, mobile pastoral herds, rare mountain barter, and frontier warfare. 
+1. DUAL PLAY MODE ARCHITECTURE
+TAMILAKAM scales dynamically from 2 to 6 players. Depending on player count and preferred setup, the game operates under one of two core modes: 
+Mode Type	Target Players	Faction Distribution	Core Rules & Interactions
+Mode A: Asymmetric Hegemony	2–6 Players	Human players command BOTH Crown Monarchs and Velir Chieftains. 	Full asymmetric actions ([A]–[I] vs [V-A]–[V-I]); active Padai Patru enclaves; direct barter; minister poaching. 
+Mode B: Imperial Triarchy	3 Players	Human players strictly command the 3 Crown Monarchs. 	Velir domains exist as Non-Player Character (NPC) Independent Clans; NPCs defend hexes, accept kinship bribes, and submit to Samanta swaps. 
+Mode A: Playable Velir System (2–6 Players)
+    • Active Factions: Velir clans (Malaiyaman, Irungolar, Vanar) are controlled by active human players with dedicated vaults, dual-layer faction boards, and asymmetric victory paths. 
+    • Player Interactions: Crown players cannot freely delete or convert human Velir hexes without combat or formal bureaucratic absorption (offering Gold compensation or triggering Upheaval Buffers). 
+    • Highland Barter & Subversion: Velir players physically move units down from hills to execute Guild Purges, perform Direct Barter at Crown markets, or Poach Imperial Revenue Masters. 
+Mode B: NPC Velir System (3-Player Core Setup)
+    • Independent Domain Hexes: Side A Kurinji and Mullai tiles represent neutral, unaligned highland clan territories. 
+    • NPC Unit Spawning: If a Crown player raids or attacks an NPC Velir tile and fails to clear it, the surviving defenders automatically spawn an NPC Kudi-Vélan (Highland War Leader) on that hex. 
+    • Crown Subversion & Proxy Warfare:
+        ◦ Crown Kings spend 2 Rice Tokens to execute a Crown Kinship Intervention, bribing NPC Velir clans to march as proxy armies against rival Crown Capitals. 
+        ◦ Crown Kings spend 2 Gold + 1 Pulavar to execute a Padai Veedu / Samanta Swap, granting the Énādi ring to co-opt an NPC leader and flip the tile directly to a Side B Crown Estate. 
+    • Rebel Defection: If a Crown Monarch enters a severe Valangai Supply Deficit and fails army upkeep, their Muvendha Araiyan minister defects to the nearest NPC Velir hex, creating an active NPC Rebel Domain. 
+2. MAP TOPOLOGY & THE TINAI SYSTEM
+The game board consists of 21 double-sided modular hex tiles, 3 single-sided Home Delta Capitals, and an interlocking coastal frame. The landscape embodies the 5 classical ecological zones (Tinai) of ancient Tamilakam: 
+The Modular Double-Sided Hex System
+    • Side A (Native / Wild / Independent State): Represents unimproved natural ecology, highland clan domains, or outlaw dens. Source of raw resources, millet/livestock, and native recruitment. 
+    • Side B (Institutionalized / Fortified / Flipped State): Represents state garrisons, irrigated estates, sacred land grants, or guild nodes. Flipped via Major Actions and marked visually with gold/red borders. 
+    • The Single-Flip Rule: Standard double-sided hex tiles can only be flipped from Side A to Side B ONCE per game. Side B transformations are permanent. 
+    • The Guild Purge Exception: A Velir Guild Purge is the only action in the game that forces a Side B Nagaram Market Node to revert back to a Side A raw landscape. 
+The 5 Classical Ecologies (Tinai)
+🌾 1. Marudham (Lowland Farmland)
+    • Side A (Natural Paddy / Free Farms): Managed by native free farm operators (Kilars). Yields 1 Rice per harvest. 
+    • Side B (Irrigated Kaani Estate / Devadana Estate / Nagaram Node):
+        ◦ Irrigated Kaani Estate: Yields 3 Rice per harvest; forms prerequisite for the Muvendha Araiyan Title. 
+        ◦ Devadana Estate: Yields 1 Rice + 1 Gold; immunizes land against Kilar migration; advances Vedic Ritual Parity Track by +2. 
+        ◦ Nagaram Market Node: Flipped via Major Action [E]; yields +2 Gold/turn. 
+🌲 2. Kurinji & Mullai (Upland Hills & Pastures)
+    • Side A (Independent / Allied Velir Domain):
+        ◦ Crown Use: Target for Soft-Border Cattle Raids (Vetchi). Movement cost: 2 MP for heavy forces. 
+        ◦ Velir Use: Yields 1 Millet/Livestock Token per harvest. Recruits Kudi-Vélans and Velir Tribal Warriors (3 AP / 3 DP; 6 DP in hills). 
+    • Side B (Padai Veedu Estate / Samanta Garrison): Flipped via Padai Veedu Swap [C]. Yields 3 Rice per harvest and projects a 2x Defense Aura. Replaces Velir warriors with Crown Vettuva Maravars. 
+🟤 3. Palai (Arid Corridors & Outlaw Dens)
+    • Side A (Arid Wasteland / Negative Hex Outlaw Den): Yields 0 base resources. Eyinar Mercenaries stationed here create a Negative Hex imposing -1 Paddy / -1 Gold on adjacent enemy farms. Movement cost: 2 MP. 
+    • Side B (Palai Fort & Messenger Capital): Flipped via Palai Reclamation (2 Gold + 3 Rice). Projects a 2x Defense Aura to itself and adjacent hexes. Unlocks +1 Board-wide Movement Point (Messenger Boost) for friendly troops and merchants. 
+🔵 4. Neithal (Coastlines & Salt Pans)
+    • Side A (Salt Pans & Pearl Fisheries): Yields 1 Gold per harvest (2 Gold for Pandya). Home to salt traders (Umanars). 
+    • Side B (Pattinam Overseas Port / Nagaram Market Node): Pattinam Ports yield 2 Gold per turn. Unlocks construction of Navay Fleets and direct import of foreign warhorses. 
+⛵ 5. Pattinam (High-Seas Port Nodes)
+    • Situated along the coastal border frame enclosing Neithal hexes. Controls international maritime routes, foreign warhorses, and overseas trade wealth. 
+3. MAP CAPACITY & STACKING LIMITS
+To maintain visual clarity and tactical balance across the modular grid:
+    • Hex Stacking Cap: A single hex space may contain a maximum of 4 military units and 1 non-combatant agent (e.g., Pulavar, Sathan, Umanar, or Kilar) at any given time. Total maximum token density per hex is 5 tokens. 
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 1 of 20
+Executive Overview & Master Structure
+Welcome to the consolidated master rulebook for TAMILAKAM: The Crown of the Three Kings. This rulebook merges all base game mechanics, modular expansion annexures, historical refinements, and economic patches into a clean, unified text designed for easy export and copy-pasting into word processors. 
+The game simulates the structural struggle of ancient South India across two opposing state-building models: 
+    • Vertical Imperial Monarchs (Muvendhar): The Chola, Pandya, and Chera dynasties scaling wet-rice deltas, international maritime trade, and Agamic temple networks. 
+    • Horizontal Highland Chieftains (Velir): The Malaiyaman, Irungolar, and Vanar clans leveraging dryland millet economies, mobile pastoral herds, rare mountain barter, and frontier warfare. 
+1. DUAL PLAY MODE ARCHITECTURE
+TAMILAKAM scales dynamically from 2 to 6 players. Depending on player count and preferred setup, the game operates under one of two core modes: 
+Mode Type	Target Players	Faction Distribution	Core Rules & Interactions
+Mode A: Asymmetric Hegemony	2–6 Players	Human players command BOTH Crown Monarchs and Velir Chieftains. 	Full asymmetric actions ([A]–[I] vs [V-A]–[V-I]); active Padai Patru enclaves; direct barter; minister poaching. 
+Mode B: Imperial Triarchy	3 Players	Human players strictly command the 3 Crown Monarchs. 	Velir domains exist as Non-Player Character (NPC) Independent Clans; NPCs defend hexes, accept kinship bribes, and submit to Samanta swaps. 
+Mode A: Playable Velir System (2–6 Players)
+    • Active Factions: Velir clans (Malaiyaman, Irungolar, Vanar) are controlled by active human players with dedicated vaults, dual-layer faction boards, and asymmetric victory paths. 
+    • Player Interactions: Crown players cannot freely delete or convert human Velir hexes without combat or formal bureaucratic absorption (offering Gold compensation or triggering Upheaval Buffers). 
+    • Highland Barter & Subversion: Velir players physically move units down from hills to execute Guild Purges, perform Direct Barter at Crown markets, or Poach Imperial Revenue Masters. 
+Mode B: NPC Velir System (3-Player Core Setup)
+    • Independent Domain Hexes: Side A Kurinji and Mullai tiles represent neutral, unaligned highland clan territories. 
+    • NPC Unit Spawning: If a Crown player raids or attacks an NPC Velir tile and fails to clear it, the surviving defenders automatically spawn an NPC Kudi-Vélan (Highland War Leader) on that hex. 
+    • Crown Subversion & Proxy Warfare:
+        ◦ Crown Kings spend 2 Rice Tokens to execute a Crown Kinship Intervention, bribing NPC Velir clans to march as proxy armies against rival Crown Capitals. 
+        ◦ Crown Kings spend 2 Gold + 1 Pulavar to execute a Padai Veedu / Samanta Swap, granting the Énādi ring to co-opt an NPC leader and flip the tile directly to a Side B Crown Estate. 
+    • Rebel Defection: If a Crown Monarch enters a severe Valangai Supply Deficit and fails army upkeep, their Muvendha Araiyan minister defects to the nearest NPC Velir hex, creating an active NPC Rebel Domain. 
+2. MAP TOPOLOGY & THE TINAI SYSTEM
+The game board consists of 21 double-sided modular hex tiles, 3 single-sided Home Delta Capitals, and an interlocking coastal frame. The landscape embodies the 5 classical ecological zones (Tinai) of ancient Tamilakam: 
+The Modular Double-Sided Hex System
+    • Side A (Native / Wild / Independent State): Represents unimproved natural ecology, highland clan domains, or outlaw dens. Source of raw resources, millet/livestock, and native recruitment. 
+    • Side B (Institutionalized / Fortified / Flipped State): Represents state garrisons, irrigated estates, sacred land grants, or guild nodes. Flipped via Major Actions and marked visually with gold/red borders. 
+    • The Single-Flip Rule: Standard double-sided hex tiles can only be flipped from Side A to Side B ONCE per game. Side B transformations are permanent. 
+    • The Guild Purge Exception: A Velir Guild Purge is the only action in the game that forces a Side B Nagaram Market Node to revert back to a Side A raw landscape. 
+The 5 Classical Ecologies (Tinai)
+🌾 1. Marudham (Lowland Farmland)
+    • Side A (Natural Paddy / Free Farms): Managed by native free farm operators (Kilars). Yields 1 Rice per harvest. 
+    • Side B (Irrigated Kaani Estate / Devadana Estate / Nagaram Node):
+        ◦ Irrigated Kaani Estate: Yields 3 Rice per harvest; forms prerequisite for the Muvendha Araiyan Title. 
+        ◦ Devadana Estate: Yields 1 Rice + 1 Gold; immunizes land against Kilar migration; advances Vedic Ritual Parity Track by +2. 
+        ◦ Nagaram Market Node: Flipped via Major Action [E]; yields +2 Gold/turn. 
+🌲 2. Kurinji & Mullai (Upland Hills & Pastures)
+    • Side A (Independent / Allied Velir Domain):
+        ◦ Crown Use: Target for Soft-Border Cattle Raids (Vetchi). Movement cost: 2 MP for heavy forces. 
+        ◦ Velir Use: Yields 1 Millet/Livestock Token per harvest. Recruits Kudi-Vélans and Velir Tribal Warriors (3 AP / 3 DP; 6 DP in hills). 
+    • Side B (Padai Veedu Estate / Samanta Garrison): Flipped via Padai Veedu Swap [C]. Yields 3 Rice per harvest and projects a 2x Defense Aura. Replaces Velir warriors with Crown Vettuva Maravars. 
+🟤 3. Palai (Arid Corridors & Outlaw Dens)
+    • Side A (Arid Wasteland / Negative Hex Outlaw Den): Yields 0 base resources. Eyinar Mercenaries stationed here create a Negative Hex imposing -1 Paddy / -1 Gold on adjacent enemy farms. Movement cost: 2 MP. 
+    • Side B (Palai Fort & Messenger Capital): Flipped via Palai Reclamation (2 Gold + 3 Rice). Projects a 2x Defense Aura to itself and adjacent hexes. Unlocks +1 Board-wide Movement Point (Messenger Boost) for friendly troops and merchants. 
+🔵 4. Neithal (Coastlines & Salt Pans)
+    • Side A (Salt Pans & Pearl Fisheries): Yields 1 Gold per harvest (2 Gold for Pandya). Home to salt traders (Umanars). 
+    • Side B (Pattinam Overseas Port / Nagaram Market Node): Pattinam Ports yield 2 Gold per turn. Unlocks construction of Navay Fleets and direct import of foreign warhorses. 
+⛵ 5. Pattinam (High-Seas Port Nodes)
+    • Situated along the coastal border frame enclosing Neithal hexes. Controls international maritime routes, foreign warhorses, and overseas trade wealth. 
+3. MAP CAPACITY & STACKING LIMITS
+To maintain visual clarity and tactical balance across the modular grid:
+    • Hex Stacking Cap: A single hex space may contain a maximum of 4 military units and 1 non-combatant agent (e.g., Pulavar, Sathan, Umanar, or Kilar) at any given time. Total maximum token density per hex is 5 tokens. 
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 3 of 20
+PART 3: THE LIVING HUMAN PIPELINE & UNIT EVOLUTION
+In TAMILAKAM, units do not spawn from abstract resource pools. Instead, they evolve through a living social pipeline, progressing from primary agrarian and highland producers into merchants, court bards, monastic pontiffs, imperial ministers, or ring-granted generals. 
+1. THE AGRARIAN & IMPERIAL ADMINISTRATIVE PIPELINE
+The base agrarian engine and imperial hierarchy develop along a single unified pipeline of social mobility: 
+Agrarian to Imperial Administrative Pipeline:
+    • [ Kilar ] (Free Farm Operator) $\rightarrow$ Build Sluice / Upgrade Irrigation $\rightarrow$ [ Kaaniyalar ] (Landed Estate Owner)
+    • [ Kaaniyalar ] $\rightarrow$ Reaches Level 5 Irrigation + 4 Irrigated Estates $\rightarrow$ [ Muvendha Araiyan ] (Imperial Prime Officer)
+    • (Over-Taxation Branch) [ Kilar ] $\rightarrow$ Over-taxed without Irrigation upgrade $\rightarrow$ Migrates to rival Devadana / Nagaram
+1.1 Kilar (Free Farm Operator)
+    • Status: Default agrarian manager present on all active Marudham (Side A) farmlands from Turn 1. 
+    • Function: Directs daily crop production and collects harvest yield (1 Rice per harvest; +1 Rice for Chola). Does not engage in direct combat. 
+    • The Kilar Migration Mechanic:
+        ◦ Kilars do not require a separate grain upkeep token. 
+        ◦ However, if a Crown player collects extra tax (Melvaram) without upgrading their Irrigation Track, the Kilar is deprived. 
+        ◦ On the next Harvest Phase, the tile yields 0 Rice, and the Kilar migrates to an opponent’s nearest Devadana Estate or Nagaram Node, permanently transferring production potential to the rival. 
+    • Elevation Pathway: Upgraded directly to a Kaaniyalar when a player advances their Irrigation Track or constructs a Sluice (Kumizhi Thoombu) on a Marudham hex. 
+1.2 Kaaniyalar (Landed Estate Owner)
+    • Status: Elevated landholder managing high-yield Irrigated Kaani Estates (+3 Rice per harvest). 
+    • Function: Serves as the economic and institutional backbone for all advanced societal transformations. 
+    • Conversion & Elevation Options:
+        1. Elevated to a Sathan to lead inland trade caravans. 
+        2. Consumed (along with 5 active Court Poets / Pulavars) to establish a Mutt (Monastic Center). 
+        3. Elevated to Muvendha Araiyan upon reaching Level 5 Irrigation with 4 Irrigated Estates. 
+1.3 Muvendha Araiyan (Imperial Prime Officer & Revenue Master)
+    • Status: Elite imperial officer, chief minister, and crown administrator managing core river delta revenues. 
+    • Prerequisites: Reaching Level 5 on the Irrigation Track AND controlling at least 4 Irrigated Kaani Estates (Side B) simultaneously. 
+    • Powers & Perks:
+        ◦ Core Delta Tax Hegemony (Passive): Controlled Irrigated Kaani Estates produce +1 BONUS GOLD COIN per harvest alongside standard Rice. These core farms become completely IMMUNE to Soft-Border Cattle Raids (Vetchi). 
+        ◦ Crown Kinship Intervention (Active — Major Action [I]): Consumes 2 Rice Tokens to execute ONE of the following diplomatic maneuvers: 
+            ▪ Neutralize Lock: Temporarily break an opponent's Kinship Lock on an Allied Velir hex for 1 turn cycle, making it vulnerable to subversion or a Padai Veedu Swap. 
+            ▪ Proxy War / Chieftain Conscription: Spend 2 Rice to direct an NPC Velir clan to launch an immediate attack against a rival Crown's capital or farms. 
+2. THE BARDIC & SACRED INSTITUTIONAL PIPELINE
+Moral legitimacy and spiritual authority develop along the bardic pipeline, transforming local bards into high monastic pontiffs. 
+Bardic & Religious Elevation Pipeline:
+    • [ Eyinar / Kilar ] (Hunter / Farm Worker) $\rightarrow$ Spend 1 Gold + 1 Rice $\rightarrow$ [ Pulavar / Odhuvar ] (Court Poet & Reciter)
+    • [ 5 Active Pulavars + 1 Kaaniyalar ] $\rightarrow$ Appoint Mutt Head Action $\rightarrow$ [ Matathipathi ] (Mutt Head / Pontiff)
+2.1 Pulavar / Odhuvar (Court Poet & Reciter)
+    • Elevation Action: Spend 1 Gold + 1 Rice on a reclaimed Palai or Devadana tile containing an Eyinar or Kilar. 
+    • Immediate Effects:
+        ◦ Advances +1 Step on the Tamil Bardic Prestige Track. 
+        ◦ Generates +1 Immediate Pilgrim Rice Token directly into your vault. 
+        ◦ Places 1 Pulavar Token into your Faction Board Bardic Holder (Max capacity: 5). 
+    • Kinship Lock & Moral Anchor Function: As long as your Tamil Bardic Prestige Score equals or exceeds a rival's Vedic Ritual Parity Score, your Allied Velir chieftains are Kinship-Locked (immune to opponent subversion or Padai Veedu swaps). 
+    • Sabai Critique (Special Action): A Pulavar can be sent to an opponent's court (Sabai) to temporarily freeze an illegal land expansion or predatory tax phase. 
+2.2 Matathipathi (High Monastic Pontiff & Mutt Head)
+    • Elevation Requirement: Combine 5 Active Pulavars on your Faction Board + 1 Kaaniyalar (Landed Estate Owner). 
+    • Effect: Consumes the 5 Pulavars and 1 Kaaniyalar to place 1 Mutt Marker on your Faction Board. Clears the Bardic Holder for new recruitment. 
+    • Capstone Goal: Accumulating 5 Mutts + 8 Gold Coins during Phase 2 allows the construction of the Great Capital Temple, unlocking a Capstone Victory Choice. 
+3. THE COMMERCIAL PIPELINE
+Commercial Elevation Pipeline:
+    • [ Kaaniyalar ] $\rightarrow$ Spend 2 Gold $\rightarrow$ [ Sathan ] (Inland Caravan Master)
+    • [ Neithal Tile ] $\rightarrow$ Spend 2 Gold $\rightarrow$ [ Umanar ] (Coastal Salt Trader)
+    • [ Sathan + Umanar ] meet on Marudham/Neithal + 2 Gold $\rightarrow$ [ Nagaram ] (Market Guild Node)
+    • [ 3 Active Nagarams + 1 Pattinam Port ] $\rightarrow$ [ Ma Sathuvan ] (Commercial Overlord)
+3.1 Sathan & Umanar (Merchant Agents)
+    • Sathan (Inland Caravan Master): Elevated from a Kaaniyalar or hired at an inland Nagaram for 2 Gold. Base Movement: 2 Hexes/Turn. Transports rice surpluses inland and connects highland domains to lowland markets. 
+    • Umanar (Coastal Salt Trader): Recruited on Neithal (Side A) coastal hexes for 2 Gold (Pandya Umanars gain +1 MP, moving 3 Hexes/Turn). Generates +1 Gold when stationed on Neithal salt pans. 
+3.2 Ma Sathuvan (Commercial Guild Overlord)
+    • Unlocking Requirement: Formed when a player simultaneously controls 3 Active Nagarams (Side B) and 1 Operational Pattinam Overseas Port. Unlocks the Commercial Metric Title. 
+    • Unique Powers:
+        ◦ Generates +1 Bonus Gold Coin per turn from ALL active Nagaram nodes across the entire board (including those owned by rivals). 
+        ◦ Allows direct import of Warhorses and Siege Elephants straight to the Capital, bypassing local market prerequisites. 
+        ◦ Unlocks the Mula Bala standing guard (+1 DP board-wide, +1 AP to Generals without Kilar tax burdens). 
+4. THE HIGHLAND WARRIOR & RING-GRANTING PIPELINE
+Highland military leaders operate on a unique path of native clan leadership or imperial co-optation: 
+Highland Warrior & Ring-Granting Pipeline:
+    • [ Kudi-Vélan ] (Highland Clan Leader) $\rightarrow$ Earns 2 Combat Wins OR Spends 2 Prestige + 2 Millet $\rightarrow$ [ Senathipathi ] (Supreme Highland General)
+    • [ Kudi-Vélan ] $\rightarrow$ Crown grants Énādi Ring (2 Gold + 1 Prestige) $\rightarrow$ [ Énādi ] (Imperial Crown General) (Flips tile to Side B Samanta Estate)
+4.1 Kudi-Vélan (Highland Clan War-Chief)
+    • Status: Default martial leader of an independent Velir clan. 
+    • Stats: Base MP: 1 (2 MP in Uplands) | AP: 3 | DP: 3 (6 DP in Kurinji/Mullai hill terrain). 
+    • Role: Commands native tribal warriors and protects Velir domains against Crown subversion. 
+4.2 Granting the Énādi-Mōthiram (Imperial Ring-Granting Action)
+    • The Mechanism: A Crown Monarch poaches an active Kudi-Vélan by bestowing the royal Énādi Ring (Mōthiram). 
+    • Requirements: Crown spends 2 Gold + 1 Tamil Bardic Prestige on a tile occupied by a Kudi-Vélan. 
+    • Result:
+        ◦ The Kudi-Vélan is stripped from the Velir army roster. 
+        ◦ The unit transforms into an Énādi under direct Crown command (Stats: MP: 2 | AP: 5 | DP: 4). 
+        ◦ The tile flips to a Side B Samanta Estate (Crown Garrison Domain), granting the Crown +1 Gold per harvest and +2 permanent garrison defense. 
+        ◦ Human Velir Compensation: In a 4–6 player game, the human Velir player receives 2 Gold Coins as an "Imperial Official Bribe," compensating them for their lost clan leader. 
+5. MASTER SOCIAL PIPELINE SUMMARY TABLE
+Base Social Unit	Primary Resource / Cost	Elevation Target	Key Functional Output
+Kilar	Base Farm Worker 	Kaaniyalar 	Yields 1 Rice; migrates if over-taxed. 
+Kaaniyalar	Sluice Construction 	Muvendha Araiyan 	Yields 3 Rice; required for Sathans, Mutts & Titles. 
+Eyinar / Kilar	1 Gold + 1 Rice 	Pulavar / Odhuvar 	+1 Bardic Prestige, +1 Pilgrim Rice, Sabai Critique. 
+Pulavar (x5)	5 Pulavars + 1 Kaaniyalar 	Matathipathi (Mutt Head) 	Places Mutt Marker; unlocks Temple Capstone. 
+Kaaniyalar	2 Gold 	Sathan (Caravan Master) 	Moves 2 MP; combines with Umanar to build Nagarams. 
+Kudi-Vélan	Granting Énādi Ring (2 Gold + 1 Prestige) 	Énādi (Imperial General) 	Co-opts Highland Leader; converts tile to Samanta Estate. 
+
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 4 of 20
+PART 4: THE MILITARY UNITS & TACTICAL COMMAND MATRIX
+Part 4 defines the military forces of TAMILAKAM. Units are categorized across Crown royal forces, highland clan levies, desert outlaw mercenaries, specialized cavalry, heavy war beasts, and ocean-going warships. 
+1. THE MILITARY UNIT ROSTER & STAT MATRIX
+Every military unit is defined by three core combat ratings: Movement Points (MP), Attack Points (AP), and Defense Points (DP). 
+Unit Name	Source / Faction	MP	AP	DP	Recruitment Cost / Requirements
+Vettuva Maravars	Crown Royal Army 	1 	2 	2 	1 Gold + 1 Rice 
+Eyinar Mercenaries	Palai Outlaw Dens 	2 	2 	1 	1 Gold (0 Rice upkeep) 
+Velir Tribal Warriors	Highland Clans 	1 (2 in Uplands) 	3 	3 (6 in Uplands) 	1 Rice/Millet + 1 Tribal Labor 
+Kudi-Vélan	Velir Clan Leader 	1 (2 in Uplands) 	3 	3 (6 in Uplands) 	2 Prestige + 2 Millet 
+Énādi	Crown Commander 	2 	5 	4 	Grant Énādi Ring (2 Gold + 1 Prestige) 
+Maanaakkan Cavalry	Port Imports 	3 	3 	2 	2 Gold (1 Gold for Chera) 
+War Elephants (Kaliru)	Anai Kadam Nodes 	1 	4 	2 	3 Gold + 2 Rice 
+Navay Fleets	Pattinam Ports 	3 Sea Spaces (4 for Chera) 	2 	3 	2 Gold 
+1.1 Detailed Unit Breakdown
+⚔️ 1. Vettuva Maravars (Direct Crown Infantry)
+    • Source: Standard standing infantry of the Crown Dynasties (Chola, Pandya, Chera). 
+    • Stats: Base MP: 1 | AP: 2 | DP: 2. 
+    • Upkeep: 1 Rice Token per Phase 1 Harvest Phase. 
+    • Special Trait (Palai Garrison): Gains +1 DP (3 DP total) when defending inside a Side B Palai Fort. 
+🏹 2. Eyinar Mercenaries (Outlaw Light Raiders)
+    • Source: Hired directly from un-reclaimed Palai (Side A) Negative Hexes. 
+    • Stats: Base MP: 2 | AP: 2 | DP: 1. 
+    • Upkeep: 0 Rice (Self-sustaining outlaw raiders; no crop maintenance required). 
+    • Special Trait (Soft-Border Cattle Raid / Vetchi): Can cross into open enemy farms to pillage resources without engaging static fort garrisons in direct combat. 
+🛡️ 3. Velir Tribal Warriors (Highland Clan Elites)
+    • Source: Recruited by Velir Chieftains on friendly Kurinji or Mullai (Side A) upland hexes. 
+    • Stats: Base MP: 1 (2 MP in Kurinji/Mullai uplands) | AP: 3 | DP: 3 (6 DP in Kurinji/Mullai hill terrain). 
+    • Upkeep: 1 Millet/Livestock Token per harvest. 
+    • Special Trait (Highland Defense Aura): Forms an impenetrable wall in mountain passes, doubling their defense rating when holding high ground. 
+👑 4. Kudi-Vélan (Highland Clan War-Chief)
+    • Source: Named martial leader of an independent Velir clan. 
+    • Stats: Base MP: 1 (2 MP in Uplands) | AP: 3 | DP: 3 (6 DP in Uplands). 
+    • Upkeep: 1 Millet/Livestock Token per harvest. 
+    • Special Trait (Clan Protection): Protects active Velir domains from being target-swapped or subverted by rival Crown bards while stationed on-site. 
+🎖️ 5. Énādi (Crown-Commissioned General)
+    • Source: Created when a Crown Monarch grants the royal Énādi Ring (Mōthiram) to co-opt a Kudi-Vélan. 
+    • Stats: Base MP: 2 | AP: 5 | DP: 4. 
+    • Upkeep: 1 Rice + 1 Gold per harvest (Paid via Crown Valangai points). 
+    • Special Trait (Imperial Command Aura): All friendly Vettuva Maravars stacked with or adjacent to an Énādi gain +1 AP during combat resolution. 
+🐎 6. Maanaakkan Cavalry (Shock Troops & Horse Merchants)
+    • Source: Foreign warhorses imported at Pattinam Overseas Ports (Costs 2 Gold; 1 Gold for Chera). 
+    • Stats: Base MP: 3 | AP: 3 | DP: 2. 
+    • Upkeep: 1 Gold per harvest. 
+    • Special Trait (Tactical Interception & Pre-Battle Retreat):
+        ◦ Interception: Can move out-of-turn to intercept Eyinar raiders executing a Cattle Raid on an adjacent farm. 
+        ◦ Tactical Retreat: Before combat card reveal, player may retreat cavalry 1 hex backward to avoid overwhelming force. 
+🐘 7. War Elephants / Kaliru (Siege Breakers)
+    • Source: Captured in Kurinji forests and equipped at an active Anai Kadam Node (Market/Fort adjacent to Kurinji). Cost: 3 Gold + 2 Rice. 
+    • Stats: Base MP: 1 | AP: 4 | DP: 2. 
+    • Upkeep: 2 Rice Tokens per harvest. 
+    • Special Trait (Siege Breaker): COMPLETELY IGNORES enemy Fort and Padai Veedu 2x Defense Auras during combat resolution, forcing defenders to fight strictly on base ratings! 
+⛵ 8. Navay Fleets (Coastal Warships)
+    • Source: Constructed at operational Pattinam Overseas Ports for 2 Gold. 
+    • Stats: Sea Movement: 3 Coastal Spaces (4 Coastal Spaces for Chera) | AP: 2 | DP: 3. 
+    • Upkeep: 1 Gold per harvest. 
+    • Special Trait (Amphibious Transport & Sea Blockade):
+        ◦ Amphibious Assault: Transports up to 2 military units along coastal sea lanes to land directly on enemy coastal or delta capital tiles. 
+        ◦ Blockade: Positioning a Navay Fleet in a coastal sea lane cuts off international trade revenue for adjacent enemy ports. 
+2. SPECIAL COMBAT MECHANICS & COMMAND TRAITS
+    • 1. Siege Breaker (War Elephants / Kaliru): Strips away enemy 2x Defense Auras projected by Forts, Samanta Estates, or Enclaves. Defenders must calculate defense using base DP ratings only. 
+    • 2. Soft-Border Raid (Eyinar Mercenaries & Maanaakkan Cavalry): Bypasses static garrison forts to steal open farm yields directly from an opponent's vault. 
+    • 3. Amphibious Landing (Navay Fleets): Discharges ground forces directly onto coastal hexes or home delta capitals, bypassing land chokepoints. 
+3. MAP CAPACITY & MILITARY STACKING LIMITS
+To preserve spatial legibility across the hex grid:
+Hex Capacity Rules:
+    • Combat Capacity: MAXIMUM 4 Military Units per single hex space. 
+    • Non-Combatant Capacity: MAXIMUM 1 Non-Combatant Agent per single hex space (e.g., Pulavar, Sathan, Umanar, or Kilar). 
+    • Total Density Limit: 4 Military Units + 1 Agent = 5 Total Tokens Maximum per Hex. 
+Stacking Violations & Overcrowding
+    • Movement Restriction: A unit cannot enter or end its movement on a hex that already contains 4 military units. 
+    • Retreat Rule: If a unit is forced to retreat into a friendly tile that is already at maximum capacity (4 units), the retreating unit cannot be accommodated and is destroyed due to chaotic overcrowding. 
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 5 of 20
+PART 5: DUAL CULTURAL TRACKS & LEGITIMACY ENGINES
+Part 5 defines the two independent cultural tracks featured on every player’s dual-layer Faction Board: the Tamil Bardic Prestige Track and the Vedic Ritual Parity Track. 
+In ancient Tamilakam, statecraft required balancing native moral legitimacy—anchored in Tamil bardic literature, ethics (Aràm), public assembly (Sabai) critique, and indigenous royal symbols (Kudai, Murasu, Sengol)—with external ritual parity, Agamic temple consecration, and pan-subcontinental inter-dynastic alliances. 
+Dual Cultural Legitimacy Engines
+    • 📜 Tamil Bardic Prestige Track (Levels 0 $\rightarrow$ 10): Driven by patronage of Pulavars/Pāṇars funded by landed Kaaniyalars. Features native emblems: White Parasol (Kudai), War Drum (Murasu), and Sceptre (Sengol). Controls Kinship Locks, Sabai Critiques, and native moral legitimacy. 
+    • 👑 Vedic Ritual Parity Track (Levels 0 $\rightarrow$ 10): Driven by endowing Devadana sacred estates and Agamic consecrations. Enables pan-subcontinental alliances, Samanta swaps, and Kshatriya nobility status. 
+1. THE TAMIL BARDIC PRESTIGE TRACK
+The Tamil Bardic Prestige Track measures a dynasty’s alignment with indigenous Tamil statecraft and moral righteousness (Aràm). It is advanced primarily through the patronage of bards (Pulavars and Pāṇars) funded by landed magnates (Kaaniyalars) who hold surplus agricultural wealth. 
+1.1 Advancing the Track
+    • Primary Mechanism: Executing Major Action [D] (Bardic Patronage). 
+    • Cost: Spend 1 Gold + 1 Rice on a reclaimed Palai or Devadana tile containing an Eyinar or Kilar. 
+    • Yield:
+        1. Advance +1 Step on the Tamil Bardic Prestige Track. 
+        2. Gain +1 Pilgrim Rice Token directly into your vault. 
+        3. Place 1 Pulavar Token into your Faction Board Bardic Holder (Max capacity: 5). 
+1.2 Key Gameplay Powers & Mechanics
+🔒 A. The Kinship Lock (Vassal Protection)
+    • The Rule: As long as your Tamil Bardic Prestige Score equals or exceeds a rival’s Vedic Ritual Parity Score, your Allied Velir chieftains are Kinship-Locked. 
+    • Impact: Opponents cannot execute a Padai Veedu / Samanta Swap or perform bureaucratic subversion on your Allied Velir tiles. The local chieftains remain stubbornly loyal to a righteous native ruler who honors Tamil bards. 
+📜 B. Sabai Critique (Bypassing Royal Immunity)
+    • Historical Context: Bards were autonomous moral anchors who held the traditional right to enter any royal court (Sabai) and openly question a monarch's unjust decisions. 
+    • Game Action: Spend 1 Pulavar Token from your holder during an opponent's turn to send them to that opponent's court. 
+    • Effect: Immediately freeze ONE predatory action (e.g., cancel an over-taxation attempt, block an illegal land seizure, or force a raider to retreat 1 hex). 
+👑 C. Indigenous Royal Emblems (Kudai, Murasu, Sengol)
+    • Reaching Level 5 unlocks the Sacred War Drum (Murasu): Grants +1 DP to all friendly garrisons defending native home deltas. 
+    • Reaching Level 8 unlocks the White Royal Parasol (Kudai): Grants permanent immunity to Kilar migrations across all controlled Side A farms. 
+    • Reaching Level 10 unlocks the Sceptre of Righteousness (Sengol): Required prerequisite for the Matathipathi / Great Pulavar Title. 
+2. THE VEDIC RITUAL PARITY TRACK
+The Vedic Ritual Parity Track measures a dynasty’s adoption of Agamic ritual forms, Vedic consecrations, and formal royal ceremonies. It enables Tamil monarchs to establish ritual sameness with distant royal houses, elevating their status to claim pan-subcontinental nobility. 
+2.1 Advancing the Track
+    • Primary Mechanism: Endowing sacred land grants (Devadana Estates) or building temple institutions. 
+    • Velir Action ([V-F] Endow Devadana): Spend 3 Gold + 1 Rice on a Marudham or Kurinji tile to flip it to a Velir Devadana Estate (Side B). 
+    • Yield: Advances +2 Steps on the Vedic Ritual Parity Track per Devadana grant. 
+2.2 Key Gameplay Powers & Mechanics
+💍 A. Dynastic Matrimonial Alliances
+    • Unlocking Threshold: Reaching Level 6 on this track grants the faction Kshatriya Ritual Status. 
+    • Game Effect: Unlocks the ability to execute Major Action [V-H] (Matrimonial Alliance) with other players. 
+    • Alliance Benefits: Establishes a 3-turn non-aggression pact, grants a +2 DP shared defense multiplier, and enables a Joint Hegemony Victory Path. 
+🏛️ B. Bureaucratic Subversion (Énādi Ring & Samanta Swaps)
+    • High ratings on this track provide the bureaucratic prestige required to co-opt highland leaders. 
+    • A Crown player’s Vedic Ritual Parity Score must equal or exceed a Velir player's Tamil Bardic Prestige Score to attempt granting the Énādi Ring or executing a Padai Veedu / Samanta Swap on their tiles. 
+3. DYNAMIC INTERACTION: LEGITIMACY FRICTION
+A core tension in TAMILAKAM is managing the balance between native bardic legitimacy and foreign ritual parity: 
+Legitimacy Friction Penalty
+    • Condition: If your Vedic Ritual Parity Score strictly exceeds your Tamil Bardic Prestige Score. 
+    • Kinship Lock Collapse: Allied Velir Chieftains perceive the ruler as alienating indigenous Tamil traditions. All active Kinship Locks instantly dissolve across the board. 
+    • Subversion Vulnerability: Rival Crown Monarchs can immediately execute Padai Veedu / Samanta Swaps on your highland borders without needing military conquest. 
+4. CULTURAL TRACK COMPARISON MATRIX
+Feature / Trait	Tamil Bardic Prestige Track	Vedic Ritual Parity Track
+Primary Resource	Gold + Rice + Bards (Pulavars) 	Sacred Land (Devadana) & Gold 
+Cultural Focus	Indigenous Ethics (Aràm), Bards, Sabai	Agamic Rites, Vedic Sam-System 
+Core Defensive Benefit	Kinship Lock over Highland Chieftains 	+1 DP on Devadana Estates 
+Core Offensive Benefit	Sabai Critique (Freeze Opponent Action) 	Enables Énādi Ring & Samanta Swaps 
+Diplomatic Power	Protects Native Clans from Subversion 	Unlocks Dynastic Matrimonial Alliances 
+Capstone Metric Title	Matathipathi / Great Pulavar Title 	Kshatriya Noble Title 
+
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 6 of 20
+PART 6: AGRARIAN & PASTORAL ECONOMIES
+Part 6 details the two foundational economic engines of TAMILAKAM: the Lowland Wet-Rice Economy commanded by the Crown Monarchs (Muvendhar) and the Upland Millet & Pastoral Economy sustained by the Highland Chieftains (Velir). 
+To maintain clean component management, physical Rice Tokens serve a dual role: they represent wet-paddy rice when held in a Crown Vault and Millet & Livestock when stored in a Velir Vault. 
+Dual Economic Engine Architecture
+    • 🌾 Lowland Wet-Rice Economy (Crown Monarchs): Vertical and intensive hydraulic development across Marudham lowland river deltas. Driven by Irrigation Track upgrades (Levels 1 $\rightarrow$ 5) and Irrigated Kaani Estates. 
+    • 🐐 Upland Millet & Pastoral Economy (Velir Chieftains): Horizontal and mobile dryland farming, herd gathering, and rare resource harvesting across Kurinji hills, Mullai pastures, and Palai corridors. 
+1. THE LOWLAND WET-RICE ECONOMY (CROWN MONARCHS)
+The Crown Monarchs build vertical wealth by constructing sluices (Kumizhi Thoombu), cutting irrigation canals, and expanding high-yield irrigated estates across lowland deltas (Marudham). 
+1.1 The Irrigation & Canal Track
+Every Crown player tracks their hydraulic development on the Irrigation & Canal Track (Levels 1 to 5) on their Faction Board. 
+    • Advancing the Track: Major Action [A] (Advance Irrigation). 
+    • Cost: Spend 2 Gold + 2 Rice. 
+    • Track Level Modifiers & Agrarian Yields:
+Irrigation Track Level	Unimproved Marudham Hex (Side A)	Irrigated Kaani Estate (Side B)	Special Unlocks & Bonuses
+Level 1–2 (Base Canals)	Yields 1 Rice per harvest. 	N/A	Chola Dynastic Perk yields +1 Bonus Rice. 
+Level 3–4 (Expanded Network)	Yields 2 Rice per harvest. 	Yields 3 Rice per harvest. 	+1 Bonus Rice on all Marudham hexes. 
+Level 5 (Master Canals)	Yields 3 Rice per harvest. 	Yields 4 Rice per harvest. 	Unlocks prerequisite for Muvendha Araiyan Title. 
+1.2 Agrarian Yield Calculation Formula (Phase 1)
+During Phase 1 (Harvest Phase), a Crown player calculates total paddy revenue for each controlled Marudham tile using the following equation: 
+$$\text{Paddy Yield} = \text{Base Tile Yield} + \text{Irrigation Track Bonus} + \text{Dynastic Bonus (Chola: +1)} - \text{Palai Penalty (-1)}$$
+1.3 Over-Taxation & Kilar Migration
+If a Crown Monarch collects maximum harvest yields without investing in the Irrigation Track (remaining at Level 1 across multiple turn cycles), the free farm managers (Kilars) are deprived. 
+    • The Penalty: During the next Harvest Phase, the tile yields 0 Rice, and the Kilar token migrates to the nearest rival Devadana Estate or Nagaram Node, permanently transferring production yield to that opponent. 
+2. THE UPLAND MILLET & PASTORAL ECONOMY (VELIR CHIEFTAINS)
+Velir Chieftains operate a native, self-sustaining dryland economy. They do not rely on lowland wet-rice irrigation; instead, they harvest millet (Thinai), raise pastoral livestock herds, and gather high-value rare mountain resources. 
+2.1 The Millet & Pastoral Subsistence Rule
+Physical Rice tokens placed in a Velir Vault represent Millet & Livestock. 
+    • Harvest Collection (Phase 1): During Phase 1, a Velir player automatically collects 1 Millet/Livestock Token (Rice Token) for every un-flipped (Side A) Kurinji (hill) or Mullai (pasture) hex they currently control. 
+    • Independence: Velir players possess a native, self-sustaining grain supply. They do not need lowland wet-rice imports to survive or maintain military garrisons. 
+2.2 Cattle Wealth & Pastoral Recruitment
+Because pastoral wealth is mobile, Velir Chieftains can convert livestock herds directly into military forces. 
+Pastoral Cattle Recruitment Rule
+    • Mechanism: A Velir player can spend 2 Millet/Livestock Tokens directly from their vault to recruit ONE military unit. 
+    • Recruitment Options: Maanaakkan Cavalry (Mounted Pastoral Warriors) or Velir Tribal Warriors (Highland Clan Elites). 
+    • Placement: Placed directly onto any friendly Mullai (pasture) tile. 
+    • Advantage: Bypasses ALL Gold costs and market requirements. 
+2.3 Rare Mountain Resource Gathering (Highland Harvest)
+Velir domains generate unique, high-value upland goods (Hill Honey, Spices, Ivory, Timber, and Pepper). 
+    • Highland Harvest (Free Action — Phase 1): Once per turn during Phase 1, a Velir player generates 1 Rare Resource Token for every Velir unit stationed on an un-flipped (Side A) Kurinji (mountain) tile. 
+    • Resource Storage: Stored on the Faction Board's dedicated Rare Resource Track (Max capacity: 3 Tokens). 
+    • Utility:
+        1. Sold at Crown Nagarams via Direct Barter for 1 Gold Coin per token. 
+        2. Spent alongside Gold to Poach Crown Ministers (Muvendhaaraiyans). 
+        3. Offered as patronage to advance the Tamil Bardic Prestige Track. 
+3. VAULT CAPACITY & STORAGE LIMITS
+Every player tracks accumulated wealth inside their Faction Board Vault. 
+Faction Type	Grain Capacity	Gold Capacity	Rare Resource Capacity	Spoilage Enforcement (Phase 1)
+Crown Monarchs	Max 15 Rice Tokens 	Max 15 Gold Coins 	N/A	Excess grain beyond 15 tokens rots immediately. 
+Velir Chieftains	Max 15 Millet Tokens 	Max 15 Gold Coins 	Max 3 Tokens 	Excess millet beyond 15 tokens rots immediately. 
+4. MASTER ECONOMIC COMPARISON MATRIX
+Feature / Trait	Lowland Wet-Rice Economy (Crown)	Upland Millet & Pastoral Economy (Velir)
+Primary Domain	Lowland Marudham River Deltas 	Kurinji Hills, Mullai Pastures, Palai Corridors 
+Grain Token Type	Wet-Paddy Rice 	Millet (Thinai) & Pastoral Livestock 
+Primary Yield Scaling	Irrigation & Canal Track (Levels 1–5) 	Controlled Hill/Pasture Hexes & Cattle Raids 
+Special Yield	+1 Bonus Gold Coin (Irrigated Kaani + Muvendha Araiyan) 	Rare Resource Tokens (Hill Honey, Ivory, Spices) 
+Unit Recruitment Engine	Gold + Rice spent via Market Nodes 	2 Millet Tokens spent directly on Mullai tiles 
+Vulnerability	Soft-Border Cattle Raids (Vetchi) & Over-Taxation Migration 	Lowland Imperial Sieges targeting Padai Patru Enclaves 
+
+    • Sathan (Inland Caravan Master): Elevated from a Kaaniyalar or hired at an active Nagaram for 2 Gold. Stats: Base MP: 2 | AP: 0 | DP: 1. 
+        ◦ Role: Moves inland along land and Palai routes to transport grain surpluses and connect highland domains to lowland markets. 
+    • Umanar (Coastal Salt Elite): Recruited on Neithal (Side A) coastal hexes for 2 Gold. 
+        ◦ Stats: Base MP: 2 (3 MP for Pandya Umanars) | AP: 0 | DP: 1. 
+        ◦ Role: Controls coastal salt pans and pearl fisheries. Generates +1 Gold per harvest when stationed on an un-flipped Neithal tile. 
+1.2 Founding a Nagaram Guild Node
+A Nagaram is an Agamic market node formed by joining inland caravan routes with coastal salt networks. 
+Nagaram Guild Foundation Formula
+    • Requirements:
+        1. Position 1 Sathan (Caravan) AND 1 Umanar (Salt Trader) together on the same un-flipped (Side A) Marudham or Neithal tile. 
+        2. Execute Major Action [E] (Found Nagaram) & pay 2 Gold Coins. 
+    • Transformation & Yield:
+        ◦ Flip the tile to a Side B Nagaram Market Guild Node. 
+        ◦ Generates +2 Gold Coins per turn during Phase 1 Harvest. 
+        ◦ Serves as an active market hub for resource conversion. 
+1.3 Velir Construction Restriction
+    • The Restriction: Velir players are strictly prohibited from executing Major Action [E] (Found Nagaram). 
+    • Historical Context: Velir factions reject Agamic institutional markets, preferring to keep wealth fluid and mobile within their highland domains. They cannot build formal guild nodes or earn passive +2 Gold yields from Nagaram holdings. 
+2. CROWN MARKET TRADE & CONVERSION RATES
+Crown Monarchs convert bulk agricultural surpluses into liquid treasury gold through institutional market nodes. 
+2.1 Major Action [H]: Nagaram Market Trade
+During Phase 2 (Strategic Action Phase), a Crown player with units or merchant agents stationed at a controlled Nagaram Node can execute Major Action [H]. 
+    • Trade Limits: A player may convert a maximum of 4 resources per turn during a single Market Trade action. 
+    • Official Exchange Rates:
+$$\text{Bulk Grain Sale:} \quad 2 \text{ Rice Tokens} \xrightarrow{\quad \text{Nagaram Node} \quad} 1 \text{ Gold Coin}$$
+$$\text{Treasury Grain Purchase:} \quad 2 \text{ Gold Coins} \xrightarrow{\quad \text{Nagaram Node} \quad} 3 \text{ Rice Tokens}$$
+3. THE VELIR DIRECT BARTER ENGINE (MIDDLEMAN BYPASS)
+While Velir Chieftains cannot construct Nagarams, they actively exploit Crown markets by carrying high-value mountain resources down to lowland market squares. 
+Velir Direct Barter Transaction Loop
+    • Step 1 (Highland Harvest): Gather Rare Resource Tokens (Honey, Pepper, Ivory, Timber) from Kurinji mountain tiles. 
+    • Step 2 (Movement): March any Velir unit carrying Rare Resources onto ANY active Nagaram tile (including rival Crown-owned Nagarams). 
+    • Step 3 (Direct Barter Action [V-E]): Convert up to 4 Rare Resources directly into Gold Coins at a 1:1 rate. 
+    • Key Advantages: Bypasses Sathans (requires no merchant agent); pays ZERO market tax to the Crown tile holder; drains gold liquidity directly into the Velir Vault. 
+3.1 Execution Requirements ([V-E] Direct Barter Trade)
+    • Action Code: [V-E]. 
+    • Requirements: Move any Velir unit (e.g., Tribal Warrior, Kudi-Vélan) onto an active Side B Nagaram tile. 
+    • Conversion Rate: Convert up to 4 Rare Resource Tokens directly into 4 Gold Coins at a 1:1 ratio (1 Rare Resource $\rightarrow$ 1 Gold Coin) directly into the Velir Vault. 
+    • The Middleman Bypass Rule: This transaction requires no Sathan agent and pays zero market tax to the Crown tile owner. The Velir player sells high-value upland luxuries directly to lowland consumers, undercutting imperial tax structures. 
+4. COMMERCIAL OVERLORDSHIP (MA SATHUVAN TITLE)
+The pinnacle of commercial statecraft is achieved when a Crown Monarch unifies inland trade routes with overseas shipping lanes. 
+Ma Sathuvan Title Unlocking Matrix
+    • Unlocking Prerequisites:
+        1. Simultaneously control 3 Active Side B Nagaram Market Nodes. 
+        2. Control 1 Operational Pattinam Overseas Port. 
+    • Imperial Title Perks:
+        ◦ Global Market Tax: Earns +1 Bonus Gold Coin per turn from ALL active Nagaram nodes across the ENTIRE map (including opponents' nodes). 
+        ◦ Direct War Import: Allows importing Maanaakkan Warhorses and War Elephants directly to the Capital, bypassing local market prerequisites. 
+        ◦ Standing Guard (Mula Bala): Unlocks +1 DP board-wide to all garrisons and +1 AP to Generals without incurring Kilar tax burdens. 
+5. MASTER COMMERCIAL MECHANICS MATRIX
+Feature / Trait	Crown Guild System (Nagaram)	Velir Direct Barter Engine
+Node Construction	Formed via Major Action [E] (Sathan + Umanar + 2 Gold) 	Prohibited (Cannot construct Nagarams) 
+Passive Revenue	Yields +2 Gold Coins per turn during Phase 1 	None (Earns revenue strictly through active trade) 
+Grain Sale Rate	2 Rice Tokens $\rightarrow$ 1 Gold Coin 	N/A (Consumes Millet locally or converts via Monied Tax) 
+Rare Luxury Sale Rate	N/A (Imports via market nodes) 	1:1 Ratio (1 Rare Resource $\rightarrow$ 1 Gold Coin) 
+Merchant Requirement	Requires active Sathan or Umanar agents 	Middleman Bypass (Any combat unit can trade) 
+Metric Title Vector	Unlocks Ma Sathuvan (Commercial Overlord) 	Unlocks Imperial Revenue Defector via subversion 
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 7 of 20
+PART 7: COMMERCIAL NETWORKS & THE BARTER ENGINE
+Part 7 details the commercial architecture of TAMILAKAM. It contrasts the structured market guild system (Nagarams) commanded by Crown Monarchs with the direct, middleman-bypassing Highland Barter System operated by Velir Chieftains. 
+Dual Trade Engine Architecture
+    • 🏙️ Crown Guild Network (Nagarams & Sathuvans): Institutional guild nodes, market taxes, and trade caravans managed by Sathuvans (Inland Caravans) and Umanars (Salt Elites). Generates +2 Gold/turn per active Nagaram Node. 
+    • 🏺 Velir Direct Barter Engine (Middleman Bypass): Direct raw resource selling at active Nagarams using rare highland resources (Hill Honey, Pepper, Ivory, Timber). Operates on a 1:1 conversion rate (1 Rare Resource $\rightarrow$ 1 Gold Coin) directly into the Velir Vault. 
+1. COMMERCIAL AGENTS & NAGARAM GUILD FOUNDATION
+Trade networks require mobile merchant agents to establish institutional guild nodes across the map. 
+1.1 Commercial Agents (Sathuvans & Umanars)
+
+
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 8 of 20
+PART 8: MARKET DISRUPTION, GUILD PURGES, & VALANGAI MILITARY DEPENDENCIES
+Part 8 details the military-economic feedback loop between the Crown Monarchs (Muvendhar) and Highland Chieftains (Velir). While Crown Monarchs depend on inland trade networks (Sathuvans) and market nodes (Nagarams) to supply their standing Right-Hand (Valangai) military forces, Velir Chieftains possess the unique capability to violently dismantle these networks through Guild Purges. 
+Guild Purge & Valangai Supply Cycle
+    • 1. Velir Guild Purge [V-C]: A Velir unit occupies an enemy Nagaram $\rightarrow$ Eliminates any Sathan agent present $\rightarrow$ Forces the tile back to Side A (The Single-Flip Rule Exception). 
+    • 2. Crown Valangai Supply Collapse: The loss of a Nagaram or Sathan removes 1 Valangai Supply Point. If total Crown Army Size > Remaining Supply Points $\rightarrow$ Supply Deficit! 
+    • 3. Supply Shock & Desertion: Phase 1 upkeep increases by +1 Rice Token per un-supplied unit. Unpaid units suffer immediate Desertion (removed from the board). 
+    • 4. Emergency Provisioning Pact: A desperate Crown buys grain from a Velir for 2 Gold or 2 Prestige per token. The Velir player can demand a 2-turn Padai Patru Tolerance Pact as a condition. 
+1. THE GUILD PURGE ([V-C]) & THE SINGLE-FLIP EXCEPTION
+Velir factions reject Crown-backed market institutions and can actively purge guild networks to starve imperial armies and disrupt commercial titles. 
+1.1 Executing a Guild Purge ([V-C])
+    • Action Code: [V-C]. 
+    • Execution Requirement: Move a Velir force (e.g., Kudi-Vélan, Velir Tribal Warrior) onto a Crown-controlled Side B Nagaram tile. 
+    • Immediate Effects:
+        1. Agent Elimination: Eliminates any Sathan caravan agent present on the tile. 
+        2. Tile Reversion: Forces the Side B Nagaram tile to revert back to a Side A raw landscape. 
+        3. Metric Title Disruption: Strips the owning Crown player of their active market yield (+2 Gold/turn) and halts progress toward or breaks the Ma Sathuvan Commercial Metric Title. 
+1.2 The Single-Flip Rule Exception
+As established in Part 1, modular double-sided hex tiles operate under the Single-Flip Rule (Side B transformations are permanent). 
+    • The Rule Exception: A Velir Guild Purge is the only mechanism in the entire game that forces a Side B Nagaram tile to flip back to Side A. 
+    • Re-Founding Nagarams: Once a tile is reverted to Side A by a Guild Purge, a Crown player may found a Nagaram on that tile again in a later turn by executing Major Action [E] (spending 2 Gold with a Sathan and Umanar present). 
+2. VALANGAI MILITARY SUPPLY DEPENDENCIES
+Crown Monarchs rely on trade guild networks (Sathuvans) to feed and maintain their standing Right-Hand (Valangai) infantry (Vettuva Maravars). 
+2.1 Valangai Supply Capacity
+Every Crown player calculates their Valangai Supply Points during Phase 1 (Harvest Phase) based on active trade infrastructure: 
+$$\text{Valangai Supply Points} = (\text{Active } Sathan \text{ Agents Controlled}) + (\text{Operational } Nagaram \text{ Nodes Controlled})$$
+Valangai Supply Point Yields
+    • 1 Active Sathan Agent (Inland Caravan): 1 Valangai Supply Point. 
+    • 1 Operational Nagaram Node (Side B): 1 Valangai Supply Point. 
+2.2 The Supply Deficit Trigger
+A Supply Deficit is triggered during Phase 1 if a Velir player executes a Guild Purge or eliminates a Sathan agent, reducing the Crown player's total Valangai Supply Points below their total standing military units. 
+$$\text{Supply Deficit Count} = (\text{Total Standing Military Units}) - (\text{Remaining Valangai Supply Points})$$
+3. SUPPLY SHOCK PENALTIES (UPKEEP SPIKE & DESERTION)
+When a Crown Monarch suffers a Supply Deficit, maintaining army discipline becomes extremely expensive. 
+3.1 Increased Upkeep Penalty
+During Phase 1 (Harvest Phase), the Crown player must pay standard unit upkeep PLUS an additional starvation penalty for every un-supplied military unit: 
+$$\text{Upkeep Cost per Un-Supplied Unit} = \text{Standard Rice Upkeep} + 1 \text{ Additional Rice Token}$$
+    • Example: A Vettuva Maravar unit (standard upkeep: 1 Rice) that is un-supplied due to a Valangai deficit requires 2 Rice Tokens during Phase 1 to avoid desertion. 
+3.2 Desertion Penalty (Starvation Removal)
+    • Execution: During Phase 1, if a Crown player cannot or chooses not to pay the increased upkeep cost for an un-supplied unit, that unit suffers Desertion. 
+    • Removal: The un-supplied unit is immediately removed from the board due to starvation and disbandment. 
+4. EMERGENCY VELIR PROVISIONING CONTRACTS
+When trade networks collapse and starvation threatens imperial troops, a Crown Monarch can beg adjacent Velir Chieftains for emergency grain and livestock provisions. 
+Emergency Velir Provisioning Contract
+    • Execution: Crown executes an Emergency Provisioning Action during Phase 2 targeting an adjacent Velir player's Kurinji or Mullai domain. 
+    • Payment Terms (Per Supply Token Requested):
+        ◦ Option A: Pay 2 Gold Coins directly to the Velir Vault. 
+        ◦ Option B: Transfer 2 Tamil Bardic Prestige Points to the Velir. 
+    • The Padai Patru Tolerance Clause: As a binding condition, the Velir player may enforce a Padai Patru Tolerance Pact—forcing the Crown to sign a non-aggression agreement prohibiting attacking or dismantling any Velir military encampment for 2 FULL TURN CYCLES. 
+4.1 Trade Terms & Costs
+During Phase 2 (Strategic Action Phase), a Crown Monarch facing a Supply Deficit can execute an Emergency Provisioning Action targeting an adjacent Velir player: 
+    • Purchase Unit: The Crown player purchases supply tokens directly from the Velir player's Kurinji/Mullai domain. 
+    • Cost per Token: For each supply token requested to satisfy unit upkeep, the Crown must transfer 2 Gold Coins OR 2 Tamil Bardic Prestige Points directly to the Velir player. 
+4.2 The Padai Patru Tolerance Clause
+As a binding condition of signing an Emergency Provisioning Contract, the selling Velir player may demand a Padai Patru Tolerance Pact: 
+    • Non-Aggression Agreement: Enforces a binding 2-turn non-aggression pact that strictly prohibits the Crown Monarch from attacking, besieging, or dismantling any Padai Patru military encampment established by that Velir player for 2 full turn cycles. 
+    • Strategic Leverage: This allows a Velir player to sell grain to a desperate Crown Monarch while simultaneously securing immunity for their forward encampments encroaching on the Crown Capital! 
+5. MASTER DISRUPTION & DEPENDENCY SUMMARY TABLE
+Feature / Rule	Base Crown State	Post-Guild Purge Deficit
+Nagaram Node Status	Operational (Side B — Yields +2 Gold) 	Reverted to Side A (Raw Landscape) 
+Valangai Supply Ratio	1 Point per Sathan / Nagaram	Reduced by 1 Point per purged node/agent 
+Maravar Unit Upkeep	1 Rice Token per harvest 	2 Rice Tokens per un-supplied unit 
+Unpaid Unit Result	Disbands normally	Immediate Desertion (Removed from map) 
+Emergency Relief Option	Standard Market Trade 	Emergency Provisioning Contract (2 Gold / 2 Prestige) 
+Diplomatic Consequence	Independent Military Action	Padai Patru Tolerance Pact (2-turn immunity for Velir) 
+
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 9 of 20
+PART 9: THE TURN STRUCTURE & OVERARCHING ROUND ARCHITECTURE
+Part 9 establishes the core temporal architecture of TAMILAKAM: the 4-Phase Turn Cycle. Every game round progresses sequentially through four distinct phases, ensuring all players resolve economic, strategic, military, and maintenance actions in a structured, simultaneous flow. 
+The 4-Phase Turn Cycle Overview
+    • 🌾 Phase 1: Harvest, Pastoral Yields & Revenue Collection: Collect paddy, millet/livestock, salt gold, and rare resources. Pay army upkeep, enforce supply deficits, and clear spoilage. 
+    • 🛠️ Phase 2: Strategic Action Phase (Strict Limit: 2 Major Actions): Convert assets, build infrastructure, recruit military, and execute subversions, ring grants, and diplomatic alliances. 
+    • ⚔️ Phase 3: Movement, Cattle Raids & Campaign Phase: Move military forces and merchant agents across the hex grid. Resolve Soft-Border Cattle Raids (Vetchi) and open battles. 
+    • 📜 Phase 4: Bardic Upheaval, Maintenance & Victory Check: Reset stance cards, process Upheaval and Collapse Buffers, and evaluate all 4 Victory Paths. 
+1. ROUND ORDER & FACTION INITIATIVE
+Unlike games with fixed clockwise turns, player initiative in TAMILAKAM is dynamic and determined at the beginning of every round during Phase 1. 
+1.1 Initiative Determination Formula
+At the start of Phase 1, initiative order for the upcoming round is calculated based on Tamil Bardic Prestige Scores: 
+    1. Highest Prestige First: The player with the highest rating on the Tamil Bardic Prestige Track acts first during Phase 2 (Strategic Action Phase) and Phase 3 (Campaign Phase). 
+    2. Tie-Breaker 1 (Vedic Parity): If two players are tied on Bardic Prestige, the player with the higher Vedic Ritual Parity Score gains priority. 
+    3. Tie-Breaker 2 (Capital Defense): If still tied, initiative goes to the player whose capital is farthest from the nearest enemy unit. 
+    4. Velir Alternative Initiative: In 4–6 player Hegemony Mode, if a Velir player holds the highest Prestige, they may choose to yield first-player initiative to a Crown Monarch to observe crown market placements before executing strategic actions. 
+2. THE 4 PHASES BREAKDOWN
+Every round follows a strict 4-phase sequence. All players complete Phase 1 simultaneously before any player moves to Phase 2. 
+🌾 Phase 1: Harvest, Pastoral Yields & Revenue Collection
+Phase 1 represents the seasonal agrarian harvest, pastoral livestock growth, and commercial collection cycle. 
+    • Step 1: Agrarian Paddy Harvest: Crown Monarchs collect rice from controlled Marudham farmlands, applying Irrigation Track bonuses and dynastic perks. 
+    • Step 2: Velir Pastoral & Highland Harvest: Velir Chieftains collect Millet/Livestock tokens from Kurinji/Mullai hexes and gather Rare Resources (honey, pepper, ivory) from units in mountain tiles. 
+    • Step 3: Commercial & Salt Yields: Collect Gold Coins from controlled Neithal salt pans, Pattinam ports, and Nagaram guild nodes. Apply Muvendha Araiyan bonuses and Ma Sathuvan global yields. 
+    • Step 4: Upkeep & Valangai Supply Check: Pay Rice/Millet upkeep for standing armies. Apply starvation penalties (+1 Rice) or process unit desertions for un-supplied Crown forces in a Valangai deficit. 
+    • Step 5: Vault Capacity Enforcement: Enforce the 15 Rice, 15 Gold, and 3 Rare Resource vault caps. Excess un-converted grain rots immediately. 
+🛠️ Phase 2: Strategic Action Phase (Limit: 2 Major Actions)
+Phase 2 is the primary strategic engine where players develop infrastructure, recruit forces, and perform political subversions. 
+    • The 2 Major Action Limit: In player initiative order, each player executes exactly 2 Major Actions from their official action matrix (Crown Matrix [A]–[I] or Velir Matrix [V-A]–[V-I]). 
+    • Free Actions: Free actions (e.g., Highland Harvest declarations, reviewing hands, playing out-of-turn Sabai Critiques) do not consume Major Action slots. 
+    • Pass Action: A player may forfeit a Major Action slot to gain +1 Gold or +1 Rice directly into their vault. 
+⚔️ Phase 3: Movement, Cattle Raids & Campaign Phase
+Phase 3 is the tactical movement and combat phase where armies march across the modular hex grid, plunder resources, and lay siege to strongholds. 
+    • Step 1: Merchant & Military Movement: Players move military units and merchant agents (Sathuvans, Umanars) according to base Movement Points (MP) and terrain costs. 
+    • Step 2: Soft-Border Cattle Raids (Vetchi): Light forces (Eyinar Mercenaries, Maanaakkan Cavalry) execute soft-border raids against open enemy farms to pillage resources before combat resolution. 
+    • Step 3: Combat Resolution: Resolve engagements whenever military units enter a hex containing enemy forces or garrisons. Players simultaneously reveal secret Agam & Puram Stance Cards to modify attack/defense totals. 
+    • Step 4: Enclave & Siege Processing: Process Padai Patru enclave flips or resolve Imperial Sieges using War Elephants (Kaliru). 
+📜 Phase 4: Bardic Upheaval, Maintenance & Victory Check
+Phase 4 is the administrative reset and end-game verification phase. 
+    • Step 1: Card & Asset Renewal: All played Tactical Stance Cards return to players' hands (unless consumed by a Scorched Earth casualty penalty). Reset temporary Kinship Lock neutralizations. 
+    • Step 2: Upheaval & Collapse Buffer Resolution: Advance Upheaval Markers for target players in an Upheaval Phase. If a player failed to fulfill their counter-play requirement, they suffer instant political or military elimination! 
+    • Step 3: Master Victory Evaluation: Evaluate all 4 Victory Paths (Military Capital Breach, Velir Isolation Checkmate, Monumental Temple Capstone, and Imperial Dual-Hegemony). If any player satisfies victory criteria, the game terminates immediately. 
+3. PHASE FLOW & TRANSITION CHECKLIST
+To maintain game balance and prevent missed rules during play:
+Phase Transition	Key Rule Verification Checklist
+Before Phase 2	Have all players checked for Kilar over-taxation migrations? 
+Have all Velir players collected Rare Resources from Kurinji tiles? 
+Have all vaults enforced the 15-token storage limits? 
+Before Phase 3	Has every player executed EXACTLY 2 Major Actions (or passed)? 
+Have all Énādi Ring grants and Samanta Swaps been recorded? 
+Before Phase 4	Have all Soft-Border Raids been resolved before full battles? 
+Have hex stacking limits (Max 4 units per tile) been enforced? 
+
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 10 of 20
+PART 10: PHASE 1 — HARVEST, PASTORAL YIELDS, & REVENUE COLLECTION
+Part 10 provides the granular, step-by-step mathematical breakdown for resolving Phase 1 (Harvest & Revenue Phase). Phase 1 is the universal economic reset performed simultaneously by all players at the beginning of every round. 
+It converts territory, hydraulic infrastructure, pastoral herds, trade nodes, and title holdings into physical vault wealth while enforcing army upkeep, supply deficit penalties, mercenary contracts, and grain spoilage. 
+Phase 1: Harvest & Revenue Execution Flow
+    • 1. Agrarian Harvest: Paddy Rice (Crown) & Millet/Livestock (Velir). 
+    • 2. Highland Harvest: Rare Resource Tokens (Honey, Pepper, Ivory, Timber) gathered from mountain units. 
+    • 3. Commercial Yields: Neithal Salt, Pattinam Ports, Nagarams, and Imperial Metric Title bonuses. 
+    • 4. Upkeep & Deficits: Valangai Supply Point checks, Mercenary rental fees, and revolt processing. 
+    • 5. Vault Spoilage: Enforce storage capacity limits; excess un-converted grain rots. 
+STEP 1: LOWLAND AGRARIAN PADDY HARVEST (CROWN MONARCHS)
+Crown Monarchs calculate wet-paddy rice collection for every controlled lowland delta tile (Marudham). 
+1.1 Base Paddy Yield Table
+    • Side A Marudham (Natural Paddy / Free Farms): Yields 1 Rice Token (managed by native Kilars). 
+    • Side B Devadana (Sacred Estate): Yields 1 Rice Token + 1 Gold Coin. 
+    • Side B Irrigated Kaani Estate: Yields 3 Rice Tokens (Increases to 4 Rice Tokens if the player has reached Level 5 on the Irrigation Track). 
+1.2 Yield Modifiers & Penalties
+    • Chola Dynastic Perk: All controlled Marudham farmlands generate +1 Bonus Rice Token. 
+    • Irrigation & Canal Track Bonus:
+        ◦ Levels 1–2: Base yield. 
+        ◦ Levels 3–4: +1 Bonus Rice per Marudham hex. 
+        ◦ Level 5: +2 Bonus Rice per Marudham hex. 
+    • Palai Negative Hex Penalty: Subtract -1 Rice from any farm located adjacent to an active Eyinar Outlaw Den. 
+1.3 Kilar Over-Taxation & Migration Processing
+During Step 1, verify if any Side A Marudham farm was over-taxed during the previous round without investment in the Irrigation Track (remaining at Level 1): 
+    • Yield Loss: The over-taxed tile produces 0 Rice during the current harvest. 
+    • Migration: The Kilar (farm manager) leaves the tile and migrates to the nearest opponent-controlled Devadana Estate or Nagaram Node, permanently granting its base yield to that rival. 
+STEP 2: UPLAND PASTORAL & HIGHLAND HARVEST (VELIR CHIEFTAINS)
+Velir Chieftains gather dryland crops, expand pastoral herds, and harvest rare mountain luxuries. 
+2.1 Millet & Pastoral Collection
+    • Millet/Livestock Yield: Collect 1 Millet/Livestock Token (Rice Token) for every un-flipped (Side A) Kurinji (hill) or Mullai (pasture) hex currently controlled. 
+    • Vault Storage: Stored directly as grain/livestock in the Velir Vault. 
+2.2 Highland Harvest (Rare Mountain Resources)
+    • Execution: Velir players check all un-flipped (Side A) Kurinji (mountain) tiles containing stationed Velir units. 
+    • Yield: Generate 1 Rare Resource Token (representing hill honey, pepper, ivory, or timber) for every Velir unit stationed on an active Kurinji tile. 
+    • Storage Cap: Placed on the Faction Board's dedicated Rare Resource Track (Maximum capacity: 3 Tokens). 
+STEP 3: COMMERCIAL & SALT YIELD COLLECTION
+All players collect gold revenue from commercial nodes, ports, and metric title holdings. 
+Resource / Node / Title Type	Gold Revenue Yield
+Neithal Coastal Salt Pans (Side A)	+1 Gold Coin (+2 Gold Coins for Pandya) 
+Pattinam Overseas Ports (Side B)	+2 Gold Coins per Port 
+Nagaram Market Guild Nodes (Side B)	+2 Gold Coins per Node 
+Muvendha Araiyan Title Bonus	+1 Gold Coin per Irrigated Kaani Estate 
+Ma Sathuvan Title Bonus	+1 Gold Coin from ALL active Nagaram nodes map-wide 
+STEP 4: UPKEEP, VALANGAI DEPENDENCIES, & MERCENARY FEES
+Standing armies must be fed and paid during Phase 1. 
+4.1 Base Unit Upkeep Table
+    • Vettuva Maravars (Crown Infantry): 1 Rice Token per unit. 
+    • Velir Tribal Warriors / Kudi-Vélans: 1 Millet/Livestock Token per unit. 
+    • Maanaakkan Cavalry: 1 Gold Coin per unit. 
+    • War Elephants (Kaliru): 2 Rice Tokens per unit. 
+    • Navay Fleets: 1 Gold Coin per fleet. 
+    • Eyinar Mercenaries: 0 Rice (Self-sustaining outlaws; no upkeep required). 
+4.2 Crown Valangai Supply Deficit Processing
+For Crown Monarchs, calculate Valangai Supply Points: 
+$$\text{Valangai Supply Points} = (\text{Active } Sathan \text{ Agents}) + (\text{Operational } Nagaram \text{ Nodes})$$
+    • Supply Deficit Trigger: If total standing Crown military units exceed remaining Valangai Supply Points: 
+        ◦ Upkeep Spike: Every un-supplied military unit incurs a starvation penalty of +1 Additional Rice Token (Total upkeep: 2 Rice Tokens per un-supplied Maravar). 
+        ◦ Desertion Penalty: Any un-supplied unit whose increased upkeep cannot or is not paid is immediately removed from the board due to starvation/desertion. 
+4.3 Mercenary Rental Fee Processing & Revolts
+If a player hired rented Velir troops during a previous turn via Major Action [V-G] (Contract Mercenaries), the hiring player must pay the Velir owner during Step 4: 
+    • Payment Option A: Pay 2 Gold Coins per unit directly into the Velir Vault. 
+    • Payment Option B: Pay 2 Rice Tokens per unit directly into the Velir Vault. 
+    • The Mercenary Revolt: If the hiring player fails or refuses to pay the required fee during Step 4: 
+        1. The rented units instantly revolt against the host. 
+        2. The revolting units steal 1 Gold Coin or 1 Rice Token directly from the host's vault. 
+        3. The units immediately revert back to the direct control of their original Velir owner. 
+STEP 5: VAULT STORAGE & SPOILAGE ENFORCEMENT
+At the conclusion of Phase 1, all players enforce strict storage capacity limits inside their vaults. 
+Vault Storage Caps & Spoilage Rules
+    • Crown Vault Capacity: Maximum 15 Rice Tokens | Maximum 15 Gold Coins. 
+    • Velir Vault Capacity: Maximum 15 Millet Tokens | Maximum 15 Gold Coins | Maximum 3 Rare Resource Tokens. 
+    • Spoilage Rule: Any un-converted grain/millet exceeding 15 tokens rots immediately and is discarded to the supply bank before Phase 2 begins. 
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 11 of 20
+PART 11: PHASE 2 — STRATEGIC ACTION ECONOMY & MASTER ACTION MATRIX
+Part 11 details Phase 2 (Strategic Action Phase), the primary engineering and policy phase of TAMILAKAM. During Phase 2, players develop state infrastructure, advance cultural tracks, recruit armies, form diplomatic treaties, and execute political subversion.
+Phase 2 Action Economy Rules
+    • 1. Strict Action Limit: Each player executes EXACTLY 2 Major Actions during Phase 2.
+    • 2. Resolution Order: Resolved sequentially in initiative order determined during Phase 1 (Highest Tamil Bardic Prestige acts first).
+    • 3. Dedicated Action Matrices:
+        ◦ Crown Monarchs select from Crown Matrix [A] through [I].
+        ◦ Velir Chieftains select from Velir Matrix [V-A] through [V-I].
+1. THE ACTION ECONOMY & FREE ACTIONS
+To prevent analysis paralysis and ensure tight tactical pacing, Phase 2 strictly caps player choices.
+1.1 Major Action Limit
+    • Each player receives 2 Major Action Slots per turn cycle.
+    • Unused action slots may be converted to Pass Yields (1 Pass = +1 Gold or +1 Rice directly into the player's vault).
+1.2 Free Actions (Do Not Consume Action Slots)
+The following management actions do not consume a Major Action slot during Phase 2:
+    • Declaring a Highland Harvest to gather Rare Resources from Kurinji mountain tiles.
+    • Reviewing secret hands of Agam & Puram Tactical Stance Cards.
+    • Deploying a Pulavar to execute a Sabai Critique against an opponent's action.
+    • Checking vault storage caps and re-arranging unit stacks.
+2. THE CROWN STRATEGIC ACTION MATRIX ([A] THROUGH [I])
+Crown Monarchs (Muvendhar) choose their 2 Major Actions from the official imperial action suite:
+Action Code & Name	Requirements / Cost	Result & Rules Impact
+[A] Advance Irrigation	2 Gold + 2 Rice	+1 Step on Canal Track; boosts Marudham yield.
+[B] Reclaim Palai	2 Gold + 3 Rice	Flips Palai to Palai Fort + Gains 1 Maravar.
+[C] Padai Veedu / Samanta Swap	2 Gold + 1 Pulavar + Liquidate 1 Palai Fort	Flips un-locked Velir tile to Side B Crown Estate.
+[D] Bardic Patronage	1 Gold + 1 Rice	+1 Bardic Prestige, +1 Pilgrim Rice, +1 Pulavar.
+[E] Found Nagaram	2 Gold (Sathan + Umanar present on Side A tile)	Flips tile to Side B Guild Node (+2 Gold/turn).
+[F] Appoint Mutt Head	5 Active Pulavars + 1 Kaaniyalar	Places Mutt Marker; clears Bardic Holder.
+[G] Recruit Military	Resource Cost per Unit (Gold/Rice)	Recruits up to 2 units at Ports, Forts, or Capital.
+[H] Nagaram Market Trade	Controlled Nagaram Node (Max 4 resources/turn)	Converts up to 4 items (2 Rice $\rightarrow$ 1 Gold).
+[I] Crown Kinship Intervention	2 Rice + Muvendha Araiyan Title	Breaks Velir Lock or conscripts NPC Velir.
+3. THE VELIR STRATEGIC ACTION MATRIX ([V-A] THROUGH [V-I])
+Velir Chieftains operate on a custom, asymmetric action matrix focused on clan mobilization, direct barter, market disruption, military enclaves, and subversion:
+Action Code & Name	Requirements / Cost	Result & Rules Impact
+[V-A] Mobilize Clan Tribes	1 Millet/Rice + 1 Tribal Labor	Recruit 2 Velir Tribal Warriors on Kurinji.
+[V-B] Demand Border Tribute	Unit adjacent to open Crown farm	Steal 1 Gold or 1 Rice from Crown Vault.
+[V-C] Execute Guild Purge	Occupy enemy Nagaram Node	Eliminate Sathan, strip yield, revert to Side A.
+[V-D] Padai Patru Enclave Push	4 Gold + 2 Rice (or Combat Win near Capital)	Flip tile to Enclave; triggers 1-Turn Timer.
+[V-E] Direct Barter Trade	Unit on active Nagaram (Middleman Bypass)	Convert up to 4 Rare Goods to Gold at 1:1 ratio.
+[V-F] Endow Devadana	3 Gold + 1 Rice	Flip tile to Devadana; +2 Vedic Parity Track.
+[V-G] Contract Mercenaries	Rent out up to 2 Velir units to another player	Earn 2 Gold or 2 Rice per unit/turn from host.
+[V-H] Matrimonial Alliance	Kshatriya Status (Lvl 6 Vedic) + 2 Prestige	Enforce 3-turn non-aggression & Joint Win.
+[V-I] Poach Crown Minister	3 Gold + 1 Rare Resource adjacent to Kaani Estate	Strips Delta Tax for 2 turns; unlocks Monied Tax.
+4. DETAILED ACTION MECHANICS & RULE INTERACTION
+4.1 Crown Kinship Intervention ([I])
+    • Requirements: Spend 2 Rice Tokens. Must hold the Muvendha Araiyan Title (Level 5 Irrigation + 4 Irrigated Estates).
+    • Option 1 (Neutralize Lock): Temporarily break an opponent's Kinship Lock on an Allied Velir hex for 1 turn cycle, making it vulnerable to subversion or a Padai Veedu Swap.
+    • Option 2 (Proxy War / NPC Conscription): In 3-player NPC mode, spend 2 Rice to bribe an NPC Velir clan, directing their forces to execute a free move and attack against a rival Crown Capital or farm.
+4.2 Padai Patru Enclave Push ([V-D])
+    • Requirements: Position 1 Kudi-Vélan and at least 2 Velir Tribal Warriors on a Side A tile located within 2 hexes of a rival Crown Capital. Spend 4 Gold + 2 Rice OR win combat on that tile during Phase 3.
+    • The Lock: Flip the tile to a Padai Patru Enclave (Velir Side B).
+    • Impacts:
+        1. Tax Paralysis: Halts tax collection on all adjacent Crown farms.
+        2. Irreversible Base: Cannot be converted to Devadana or Nagaram by Crown bureaucratic actions.
+        3. State Collapse Timer: Triggers the 1-Turn State Collapse Buffer. The target Crown player has 1 turn cycle to clear the enclave via an Imperial Elephant Siege before losing the game!
+4.3 Poaching a Crown Minister ([V-I])
+    • Requirements: Position a Velir unit adjacent to a Crown player's Irrigated Kaani Estate. Target Crown must hold the Muvendha Araiyan Title. Spend 3 Gold/Barter Coins + 1 Rare Resource Token.
+    • Impacts:
+        1. Crown Tax Loss: Strips the Crown player's +1 Gold bonus on that estate for 2 turn cycles.
+        2. Monied Tax Unlocked: The Velir player gains the Imperial Revenue Defector Token, allowing them to convert up to 3 native Millet/Livestock tokens directly into 3 Gold Coins inside their vault during Phase 1 without needing market nodes.
+5. MASTER ACTION COMPARISON TABLE
+Action Code	Faction Class	Cost / Prerequisites	Primary Strategic Outcome
+[A] Advance Irrigation	Crown	2 Gold + 2 Rice	Advances Irrigation Track; increases paddy yield.
+[B] Reclaim Palai	Crown	2 Gold + 3 Rice	Creates Palai Fort; grants +1 MP Messenger Boost.
+[C] Padai Veedu Swap	Crown	2 Gold + 1 Pulavar + Fort	Absorbs Velir land; grants Énādi ring/Samanta estate.
+[D] Bardic Patronage	Crown	1 Gold + 1 Rice	+1 Bardic Prestige, +1 Pilgrim Rice, +1 Pulavar.
+[E] Found Nagaram	Crown	2 Gold + Sathan + Umanar	Flips tile to Nagaram Market Node (+2 Gold/turn).
+[F] Appoint Mutt Head	Crown	5 Pulavars + 1 Kaaniyalar	Places Mutt Marker; moves toward Temple Capstone.
+[G] Recruit Military	Crown	Variable Unit Costs	Recruits up to 2 units at ports, forts, or capital.
+[H] Market Trade	Crown	Max 4 resources at Nagaram	Trades Rice for Gold (2:1) or Gold for Rice (2:3).
+[I] Kinship Intervention	Crown	2 Rice + Muvendha Araiyan	Neutralizes Velir Lock or triggers NPC proxy war.
+[V-A] Mobilize Clans	Velir	1 Millet + 1 Tribal Labor	Recruits 2 Velir Tribal Warriors on Kurinji hexes.
+[V-B] Border Tribute	Velir	Unit adjacent to Crown farm	Steals 1 Gold or 1 Rice from Crown Vault.
+[V-C] Guild Purge	Velir	Occupy enemy Nagaram Node	Eliminates Sathan; reverts tile back to Side A.
+[V-D] Padai Patru Push	Velir	4 Gold + 2 Rice near Capital	Flips tile to Enclave; triggers 1-Turn Timer.
+[V-E] Direct Barter	Velir	Unit on active Nagaram	Converts up to 4 Rare Goods to Gold at 1:1 ratio.
+[V-F] Endow Devadana	Velir	3 Gold + 1 Rice	Flips tile to Devadana; +2 Vedic Parity Track.
+[V-G] Rent Mercenaries	Velir	Contract up to 2 units	Earns 2 Gold or 2 Rice per unit/turn from hiring player.
+[V-H] Matrimonial Alliance	Velir	Level 6 Vedic Parity + 2 Prestige	Enforces 3-turn non-aggression & Joint Victory Path.
+[V-I] Poach Minister	Velir	3 Gold + 1 Rare Resource	Strips Crown Delta Tax; unlocks Monied Tax System.
+
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 12 of 20
+PART 12: SUBVERSION MECHANICS (ÉNĀDI RINGS & MINISTER POACHING)
+Part 12 details administrative and military subversion in TAMILAKAM. Crown Monarchs (Muvendhar) can co-opt highland leaders into imperial generals (Énādis), while Velir Chieftains can poach imperial revenue masters (Muvendhaaraiyans) to establish advanced tax systems within their clan domains.
+Subversion Mechanics Overview
+    • 👑 Crown Subversion (Granting the Énādi Ring): Crown spends 2 Gold + 1 Tamil Bardic Prestige on a tile occupied by a Kudi-Vélan $\rightarrow$ Co-opts the highland leader into an imperial Énādi General $\rightarrow$ Flips the tile to a Side B Samanta Garrison Estate.
+    • 🏺 Velir Subversion (Poaching the Revenue Minister): Velir positions a unit adjacent to an Irrigated Kaani Estate owned by a Muvendha Araiyan $\rightarrow$ Spends 3 Gold + 1 Rare Resource $\rightarrow$ Strips Crown delta tax for 2 turns $\rightarrow$ Unlocks the Monied Agrarian Tax system for the Velir.
+1. CROWN SUBVERSION: GRANTING THE ÉNĀDI RING
+A Crown Monarch can co-opt an independent highland clan leader (Kudi-Vélan) into the imperial cabinet by bestowing the royal Énādi Ring (Mōthiram).
+1.1 Prerequisites & Requirements
+    1. Prestige Threshold: The Crown player's Vedic Ritual Parity Score must equal or exceed the target's Tamil Bardic Prestige Score (verifying that native Kinship Locks are neutralized or overcome).
+    2. Resource Cost: Spend 2 Gold Coins + 1 Tamil Bardic Prestige Point.
+    3. Target: Must target a hex containing an active Kudi-Vélan (Highland Clan Leader).
+1.2 Execution & Resolution
+When the Crown player executes a subversion action to grant the Énādi Ring:
+    1. Unit Transformation: The target Kudi-Vélan is co-opted and replaced on the board with a Crown Énādi General (Stats: MP: 2 | AP: 5 | DP: 4).
+    2. Estate Conversion: The tile instantly flips to a Side B Samanta Estate (Crown Garrison Domain).
+        ◦ Yield: Generates +1 Gold per harvest for the Crown.
+        ◦ Defense: Projects a 2x Fort Defense Aura to itself and adjacent hexes.
+    3. Human Velir Compensation: In 4–6 player mode, the human Velir player who lost their clan leader receives 2 Gold Coins directly into their vault as an "Imperial Official Bribe" compensation.
+2. VELIR SUBVERSION: POACHING THE IMPERIAL REVENUE MASTER
+Velir Chieftains can lure away imperial revenue masters (Muvendhaaraiyans) who possess intimate knowledge of structured state taxation and delta surveying.
+2.1 Prerequisites & Requirements
+    1. Positioning: Position at least 1 Velir unit on a hex adjacent to a Crown player's Irrigated Kaani Estate.
+    2. Target Qualification: The target Crown Monarch must currently hold the Muvendha Araiyan Title (Level 5 Irrigation + 4 Irrigated Estates).
+    3. Resource Cost: Spend 3 Gold Coins + 1 Rare Resource Token (Hill Honey, Pepper, Ivory, or Timber).
+2.2 Execution & Resolution
+When the Velir player executes Major Action [V-I] (Poach Crown Minister):
+    1. Crown Revenue Penalty: The targeted Irrigated Kaani Estate loses its +1 Gold tax bonus for 2 full turn cycles. Place a Tax Disruption Token on the estate tile.
+    2. Monied Agrarian Tax Unlocked: The Velir player gains the Imperial Revenue Defector Token on their Faction Board.
+    3. The Monied Tax System Mechanic:
+        ◦ During Phase 1 (Harvest Phase), the Velir player can automatically convert up to 3 native Millet/Livestock tokens directly into 3 Gold Coins inside their vault.
+        ◦ This conversion occurs without needing Nagaram market nodes, merchant agents, or middleman trade fees!
+3. SUBVERSION MECHANICS SUMMARY TABLE
+Feature / Dimension	Crown Subversion (Énādi Ring)	Velir Subversion (Poach Minister)
+Action Code	Major Action [C] / Kinship Intervention	Major Action [V-I]
+Prerequisites	Vedic Parity $\ge$ Bardic Prestige	Velir unit adjacent to Irrigated Kaani
+Resource Cost	2 Gold + 1 Bardic Prestige	3 Gold + 1 Rare Resource
+Target Entity	Kudi-Vélan (Highland War Leader)	Muvendha Araiyan (Imperial Revenue Master)
+Immediate Result	Converts unit to Énādi; flips tile to Samanta	Strips +1 Gold Delta Tax on target farm for 2 turns
+Long-Term Strategic Benefit	Gains 5 AP / 4 DP General & 2x Fort Defense Aura	Unlocks Monied Tax System (Direct Millet $\rightarrow$ Gold)
+Rival Compensation	Human Velir gets 2 Gold Bribe	Target Crown receives no compensation
+
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 13 of 20
+PART 13: PHASE 3 — MOVEMENT, NAVAL LANES, & HEX STACKING
+Part 13 governs physical movement, terrain costs, coastal sea lanes, and spatial stacking limits during Phase 3 (Movement, Cattle Raids & Campaign Phase). Movement determines how forces deploy for battle, conduct raids, or maneuver merchant agents across the modular hex grid.
+1. MASTER UNIT MOVEMENT TABLE
+During Phase 3, all players move their units sequentially in initiative order. Each unit type has a specific Movement Point (MP) allowance per turn:
+Unit Type	Base Movement	Terrain Cost & Movement Modifiers
+Vettuva Maravars	1 Hex / Turn	Standard movement; gains +1 MP if friendly Palai Fort is active.
+Velir Warriors / Kudi-Vélan	1 Hex / Turn	2 Hexes / Turn in Kurinji (hill) or Mullai (pasture) terrain.
+Eyinar Mercenaries	2 Hexes / Turn	Ignores Palai arid movement penalties; bypasses rough terrain.
+Sathuvans & Umanars	2 Hexes / Turn	3 Hexes / Turn for Pandya Umanars along coastal salt pans.
+Maanaakkan Cavalry	3 Hexes / Turn	Can execute pre-battle tactical retreats 1 hex backward.
+War Elephants (Kaliru)	1 Hex / Turn	Heavy Siege Unit; costs 2 MP in mountain or arid tiles.
+Navay Fleets	3 Coastal Spaces	4 Coastal Spaces for Chera warships along sea lanes.
+2. TERRAIN COSTS & THE PALAI MESSENGER BOOST
+Movement across Tamilakam's diverse landscapes depends heavily on ecological terrain types (Tinai):
+2.1 Terrain Movement Costs
+    • Clear Terrain (Marudham & Neithal): Costs 1 MP per hex for all ground units.
+    • Rough Terrain (Kurinji Hills, Mullai Forests, Palai Arid): Costs 2 MP per hex for heavy ground forces (Vettuva Maravars, War Elephants, Sathuvans).
+    • Native Terrain Exemptions:
+        ◦ Velir Units treat Kurinji and Mullai hexes as clear terrain (1 MP per hex).
+        ◦ Eyinar Mercenaries treat Palai arid hexes as clear terrain (1 MP per hex).
+2.2 The Palai Messenger Boost
+When a Crown Monarch reclaims an arid wasteland hex and flips it to a Side B Palai Fort, it establishes a secured relay network.
+    • Board-Wide Movement Boost: Controlling at least 1 operational Palai Fort grants a permanent +1 Movement Point bonus to all friendly Vettuva Maravars and Sathuvan merchant agents across the entire board.
+3. COASTAL SEA LANES & PORT BLOCKADES
+Coastal waters and high-seas port nodes (Pattinams) enable rapid maritime transport and naval interdiction.
+3.1 Amphibious Transport
+A Navay Fleet stationed in a coastal sea lane space can carry land forces along the coast:
+    • Capacity: 1 Navay Fleet can transport up to 2 ground units simultaneously.
+    • Amphibious Assault: Ground units can disembark directly from the fleet onto any adjacent coastal Neithal tile or single-sided Home Delta Capital, allowing players to bypass land chokepoints.
+3.2 Naval Sea Blockades
+    • Trade Interdiction: Positioning a Navay Fleet in a coastal sea lane space adjacent to an opponent's Pattinam Overseas Port creates an active Sea Blockade.
+    • Economic Effect: Halts all passive port yields (+2 Gold) for the target owner and blocks Maanaakkan horse merchant entries until the fleet is destroyed or forced to retreat.
+4. HEX STACKING & OVERCROWDING RULES
+To preserve spatial legibility and avoid dense board congestion, strict stacking caps apply to every hex space:
+Hex Stacking Limits
+    • Maximum Combat Units: 4 Military Units per hex space.
+    • Maximum Non-Combatants: 1 Agent (Pulavar, Sathan, Umanar, or Kilar) per hex space.
+    • Total Density Limit: 5 Total Tokens maximum per hex.
+4.1 Overcrowding Elimination
+    • Movement Restriction: A unit cannot enter or complete its move on a hex that already contains 4 military units.
+    • Forced Overcrowding Elimination: If a unit is forced to retreat into a friendly hex that is already at its 4-unit capacity, it cannot be accommodated and is destroyed immediately due to chaotic overcrowding.
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 14 of 20
+PART 14: PREDATORY WARFARE (SOFT-BORDER CATTLE RAIDS / VETCHI)
+Part 14 details asymmetric predatory warfare in TAMILAKAM. Based on the classical Tamil martial tradition of Vetchi (Cattle Raiding), mobile light forces can plunder open agricultural fields and steal vault wealth without engaging heavily fortified garrisons or siege strongholds.
+Soft-Border Cattle Raid (Vetchi) Flow
+    • 1. Execution: Move an Eyinar Mercenary or Maanaakkan Cavalry into an open enemy farm (Marudham Side A).
+    • 2. The Soft-Border Rule: Bypasses static garrisons stationed in neighboring forts or Padai Veedu estates.
+    • 3. Spoils & Disruption: Steal 1 Rice Token or 1 Gold Coin directly from the owner's vault. Target farm yields 0 during the next harvest.
+    • 4. Interception: Defender can intercept using stationed Cavalry or spend 1 Gold for instant pursuit.
+1. NEGATIVE HEX OUTLAW DENS
+    • Creation: Deploying an Eyinar Mercenary onto an un-reclaimed Palai (Side A) tile converts it into an active Negative Hex Outlaw Den.
+    • Economic Penalty: Imposes an automatic -1 Paddy / -1 Gold penalty on all adjacent enemy farmlands during Phase 1 Harvest.
+    • Movement Hazard: Enemy merchant agents (Sathuvans and Umanars) passing through or adjacent to an Outlaw Den must pay +1 additional Movement Point (MP) or halt movement immediately.
+2. EXECUTING A SOFT-BORDER RAID (VETCHI)
+During Phase 3, mobile units (Eyinar Mercenaries and Maanaakkan Cavalry) can launch cattle raids against open lowlands.
+2.1 The Soft-Border Rule
+    • Bypassing Strongholds: The raider does not need to attack or clear static garrisons stationed in adjacent Palai Forts, Padai Veedu Estates, or Samanta Estates.
+    • Direct Plunder: They sweep through the unprotected agricultural perimeter to seize harvest stores.
+2.2 Raid Yields & Harvest Disruption
+    • Immediate Vault Plunder: Steal 1 Rice Token or 1 Gold Coin directly from the target owner's Faction Vault and transfer it to the raider's vault.
+    • Crop Disruption: Place a Plundered Marker on the raided farm. The farm produces 0 yield during the subsequent Phase 1 Harvest.
+2.3 Immunity Clause
+    • Protected Estates: Irrigated Kaani Estates protected by a Muvendha Araiyan (Imperial Officer) are completely IMMUNE to soft-border cattle raids.
+3. INTERCEPTION & PURSUIT COUNTER-PLAY
+A defending monarch can protect open farmlands using two counter-play methods:
+3.1 Stationed Cavalry Interception
+    • On-Site Defense: If a defender's Maanaakkan Cavalry unit is present on the targeted farm tile, combat triggers immediately before any spoils are stolen or farm markers placed.
+3.2 Instant Pursuit
+    • Resource Cost: The defender spends 1 Gold Coin from their vault during Phase 3 to launch an instant pursuit from an adjacent tile.
+    • Forced Battle: Moves a defending cavalry or infantry unit into the raided hex, forcing the raider into open combat before they can retreat with stolen vault wealth.
+4. PREDATORY WARFARE MECHANICS SUMMARY
+Feature / Dimension	Soft-Border Cattle Raid (Vetchi)	Standard Sieges / Military Assaults
+Participating Units	Eyinar Mercenaries & Maanaakkan Cavalry	All Military Units (Infantry, Elephants, Fleets)
+Target Hexes	Open Side A Marudham Farmlands	Side B Forts, Enclaves, & Delta Capitals
+Bypasses Fort Auras?	YES (Ignores garrison defense fields)	NO (Must defeat 2x Fort Defense Aura)
+Primary Spoils	Steals 1 Rice/Gold directly from Vault	Captures or flips land tiles permanently
+Defender Defense	Cavalry Interception or Instant Pursuit (1 Gold)	Stationed Garrisons & Tactical Stance Cards
+
+TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 15 of 20
+PART 15: COMBAT ARCHITECTURE & TACTICAL STANCE CARDS
+Part 15 details combat resolution in TAMILAKAM. Battles occur during Phase 3 (Campaign Phase) whenever military units enter a hex occupied by enemy forces or garrisons. The game completely eliminates random dice luck, resolving battles through deterministic Attack/Defense ratings combined with secret Agam & Puram Tactical Stance Cards.
+4-Step Combat Resolution Sequence
+    • Step 1: Calculate Base Values: Sum Attacker AP vs Defender DP.
+    • Step 2: Stance Card Reveal: Both players simultaneously reveal secret stance cards.
+    • Step 3: Apply Fort Auras: Apply 2x Multiplier to Defender DP (if no War Elephant is present).
+    • Step 4: Resolve Outcome: Compare totals; apply unit casualties and retreats.
+1. TACTICAL STANCE CARDS (AGAM & PURAM)
+
+
+Every player holds a hand of 3 reusable Tactical Stance Cards representing classical Tamil martial doctrines (Puram) and tactical feints (Agam). During Step 2 of combat, both players simultaneously select and reveal 1 card from their hand:
+Card Name & Stance	Tactical Effect	Counter-Play & Drawbacks
+1. Ambush / Tribal Feint (Puram Stance)	Attacker COMPLETELY NEGATES defender's 2x Fort Aura for this battle.	Countered by Fortified Phalanx (if Defender plays Phalanx, Ambush yields +0 bonus AP).
+2. Scorched Earth / Night Raid (Vetchi Stance)	Destroys 2 Rice/Millet on the tile OR steals 1 Gold from opponent's vault.	Mutual Casualty: Both sides lose 1 unit in battle regardless of who wins.
+3. Fortified Phalanx / Shield (Karanthai Stance)	Grants +2 Bonus DP to defender; forces attacker to retreat 1 hex if battle ties.	Countered by War Elephants (Elephants ignore Phalanx bonus DP).
+2. COMBAT RESOLUTION FORMULA
+Combat is evaluated deterministically by summing unit stats and card modifiers:
+2.1 Attacker Total Power
+$$\text{Attacker Total AP} = (\text{Sum of Attacker Unit AP}) + (\text{Attacker Card Modifiers})$$
+2.2 Defender Total Power
+$$\text{Defender Total DP} = \left[ (\text{Sum of Defender Unit DP}) + (\text{Defender Card Modifiers}) \right] \times (\text{Fort Aura Multiplier})$$
+    • Note: The Fort Aura Multiplier is 2x if defending on or adjacent to a Side B Fort, Samanta Estate, or Padai Patru Enclave. It drops to 1x if the attacker includes a War Elephant (Kaliru) or plays Ambush / Tribal Feint.
+3. BATTLE OUTCOMES & CASUALTIES
+After calculating final AP and DP values, compare the totals:
+    • Attacker Total AP > Defender Total DP (Attacker Victory):
+        ◦ Defender loses 1 unit (defender chooses which unit to eliminate).
+        ◦ All remaining defending units are forced to retreat 1 hex to an adjacent friendly or neutral tile.
+        ◦ Attacker occupies the contested hex.
+    • Attacker Total AP $\le$ Defender Total DP (Defense Holds):
+        ◦ Attacker's assault fails.
+        ◦ Attacker loses 1 unit (attacker chooses which unit to eliminate).
+        ◦ All remaining attacking units must retreat 1 hex back to the tile from which they launched the attack.
+4. HOME CAPITAL STRONGHOLDS & CAPITAL BREACHES
+Single-sided Home Delta Capitals (Chola Kaveri, Pandya Vaigai, Chera Muziris) represent the royal seats of sovereign power.
+    • Base Capital Defense: Each Home Delta Capital has a printed Base Defense of 4 DP.
+    • Garrison Stacking: Up to 4 military units can be garrisoned inside a Capital hex to add their DP directly to the base defense.
+    • Capital Breach (Military Elimination): If an attacking army reduces a Capital's total DP to 0 and wins combat on the Capital hex, the seat falls, resulting in instant MILITARY ANNIHILATION and immediate player elimination!TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 16 of 20
+PART 16: STRONGHOLDS, FORT AURAS, & IMPERIAL ELEPHANT SIEGES
+Part 16 details fortification defense fields, military enclaves, and siege warfare in TAMILAKAM. Fortifications act as defensive force multipliers that project control across surrounding border zones, requiring heavy siege beasts (Kaliru) to dismantle.
+1. FORT DEFENSE MULTIPLIERS & AURAS
+Side B fortifications—including Palai Forts, Padai Veedu Estates, Samanta Estates, and Padai Patru Enclaves—project a protective defensive field across the map:
+Fort Defense Aura Projection
+    • The 2x Multiplier: Doubles the total Defense Points (DP) of all friendly units stationed on the fort tile AND on all 6 adjacent hexes.
+    • Formula:
+$$\text{Fortified Defense Rating} = (\text{Base Unit DP} + \text{Card Bonus}) \times 2$$
+Aura Radius
+Units standing on any of the 6 hexes directly surrounding a friendly Side B fortification benefit from the 2x Defense Multiplier during combat resolution, making fortified border lines extremely resilient against standard infantry and cavalry charges.
+2. THE IMPERIAL ELEPHANT SIEGE (BREAKING FORT AURAS)
+When a Velir Padai Patru Enclave encroaches on a Crown Capital or a fortified border chokes state revenue, standard infantry cannot breach the defenses. Brute military force is required.
+2.1 The Siege Breaker Trait
+Deploying at least 1 War Elephant (Kaliru) into combat activates the Siege Breaker trait:
+    • Stripping the Aura: The War Elephant STRIPS AWAY the defender's 2x Fort Defense Aura for that battle.
+    • Base DP Calculation: The garrison and all defending troops are forced to fight strictly on their un-multiplied base DP ratings.
+2.2 Liquidating Enclaves & Forts
+If an attacking Crown player wins an Imperial Elephant Siege against a Padai Patru Enclave or enemy fort tile:
+    1. Fort Liquidation: The fortification is destroyed and liquidated. The tile is forcibly flipped back to a Side A raw landscape.
+    2. Resource Pillage: The victor pillages 2 resource tokens (Gold or Rice) directly from the loser's vault.
+3. FORTIFICATION TYPES & DEFENSE SUMMARY
+Fortification Type	Side / Faction	Primary Yield / Function	Defense Aura Area
+Palai Fort	Side B (Crown)	Grants +1 Board-wide Movement Point (Messenger Boost)	Fort Hex + 6 Adjacent Hexes (2x DP)
+Samanta Estate	Side B (Crown)	Yields +1 Gold / harvest; generated by Énādi Ring grant	Fort Hex + 6 Adjacent Hexes (2x DP)
+Padai Veedu Estate	Side B (Crown)	Yields +3 Rice / harvest; converts Velir warriors to Maravars	Fort Hex + 6 Adjacent Hexes (2x DP)
+Padai Patru Enclave	Side B (Velir)	Paralyzes adjacent Crown farm taxes; triggers State Collapse Timer	Fort Hex + 6 Adjacent Hexes (2x DP)
+
+• TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 17 of 20
+PART 17: DIPLOMATIC TREATIES, MATRIMONIAL ALLIANCES, & MERCENARY CONTRACTS
+Part 17 details the formal diplomatic framework of TAMILAKAM. Alliances alter movement parameters, defense ratings, and victory conditions, while mercenary contracts allow Velir Chieftains to monetize their highland martial forces.
+Diplomatic & Contract Matrix Overview
+    • 👑 Crown–Crown Alliance (Imperial Trade League): Requires 2 Gold each + active Port/Nagaram. Grants 3-turn non-aggression, shared sea lanes, and pooled siege forces.
+    • 🏺 Velir–Velir Alliance (Highland Clan Federation): Requires 2 Bardic Prestige Points each. Grants 3-turn non-aggression, +2 DP shared hill defense, and Joint Hegemony Victory.
+    • 💍 Dynastic Matrimonial Alliance ([V-H]): Requires Level 6 Vedic Parity (Kshatriya Status) + 2 Prestige each. Enforces Kinship Immunity, 3-turn non-aggression, and Joint Hegemony.
+    • ⚔️ Mercenary Warfare Contract ([V-G]): Velir rents up to 2 units to a host player for 2 Gold or 2 Rice/turn per unit. Unpaid fees trigger an immediate Mercenary Revolt.
+1. DYNASTIC MATRIMONIAL ALLIANCES ([V-H])
+Velir houses or Crown Monarchs who have achieved Kshatriya Ritual Status can establish binding dynastic marriage blocs.
+1.1 Prerequisites & Requirements
+    • Ritual Status: At least one participating faction must reach Level 6 on the Vedic Ritual Parity Track (unlocking Kshatriya Status).
+    • Resource Cost: Spend Major Action [V-H] (or formal diplomatic proposal) and pay 2 Tamil Bardic Prestige Points from both participating players.
+1.2 Gameplay Modifiers & Alliance Benefits
+    1. Binding Non-Aggression Pact: Allied factions cannot enter each other's tiles, purge each other's trade nodes, or execute soft-border cattle raids against each other for 3 full turn cycles.
+    2. Shared Defensive Shield: Friendly units stationed inside an ally's Padai Patru Enclave, Palai Fort, or Samanta Estate grant a joint +2 DP multiplier during defense resolution.
+    3. Joint Hegemony Victory Path: Two allied Velir players (or an allied Crown and Velir house) achieve an instant Joint Hegemony Victory if either player successfully establishes a Padai Patru Enclave within 2 hexes of a rival Crown Capital.
+2. MERCENARY WARFARE CONTRACTS ([V-G])
+Velir Chieftains can monetize their military power by renting out highland warriors to players facing military pressure or supply deficits.
+2.1 Execution Requirements
+During Phase 2, a Velir player executes Major Action [V-G] (Contract Mercenaries) to rent up to 2 Velir Tribal Warriors or Maanaakkan Cavalry units to any player on the board.
+2.2 Contract Fee Terms
+The hiring player must pay the Velir owner every round during Phase 1 (Harvest Phase):
+    • Option A: Pay 2 Gold Coins per unit directly into the Velir Vault.
+    • Option B: Pay 2 Rice/Millet Tokens per unit directly into the Velir Vault.
+2.3 Battlefield Command & Mercenary Revolts
+    • Tactical Command: Rented units fight under the hiring player's tactical command during Phase 3 movement and combat.
+    • The Mercenary Revolt: If the hiring player fails or refuses to pay the required fee during Phase 1:
+        1. The rented units instantly revolt against the host.
+        2. The revolting units steal 1 Gold Coin or 1 Rice Token directly from the host's vault.
+        3. The units immediately revert back to the direct control of their original Velir owner.
+3. BETRAYAL & TREATY VIOLATIONS
+If a player attacks an ally, enters their territory, or purges their market node before the 3-turn treaty period expires, the betrayer suffers immediate moral and political backlash.
+    • Prestige Reset: The betrayer's Tamil Bardic Prestige Score instantly resets to Level 0.
+    • Kinship Dissolution: All active Kinship Locks across the betrayer's domains instantly dissolve.
+    • Sabai Retaliation: All rival players gain +2 Free Sabai Critiques against the betrayer, allowing them to freeze future actions without spending bards.
+4. DIPLOMATIC TREATIES SUMMARY TABLE
+Treaty Type	Participating Factions	Prerequisite / Cost	Key Benefits & Modifiers
+Imperial Trade League	Crown ── Crown	2 Gold each + active Port/Nagaram	3-turn non-aggression; shared sea lanes; pooled siege forces.
+Highland Federation	Velir ── Velir	2 Bardic Prestige Points each	3-turn non-aggression; +2 DP shared hill defense; Joint Victory.
+Matrimonial Alliance	Crown ── Velir / Velir ── Velir	Level 6 Vedic Parity + 2 Prestige each	Kinship Immunity; 3-turn non-aggression; Joint Hegemony Path.
+Mercenary Contract	Velir ── Any Player	Major Action [V-G] (2 Gold or Rice/turn)	Rents up to 2 units; unpaid fee triggers Mercenary Revolt.
+
+• TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 18 of 20
+PART 18: END-GAME CONDITIONS & THE 1-TURN UPHEAVAL / COLLAPSE BUFFERS
+Part 18 details end-game trigger verifications and counter-play safety windows. To prevent sudden, non-interactive eliminations and allow targeted players a strategic window to respond, TAMILAKAM incorporates 1-Turn Counter-Play Buffers.
+The 1-Turn Counter-Play Buffers Overview
+    • 📜 The 1-Turn Upheaval Buffer (Crown Political Hegemony):
+        ◦ Trigger: Crown converts target's final Allied Velir tile.
+        ◦ Counter-Play Window: Target gets 1 FULL TURN CYCLE.
+        ◦ Required Response: Recapture 1 tile militarily OR spend 2 Prestige for a Native Agrarian Revolt before Phase 4 ends.
+    • ⚔️ The 1-Turn State Collapse Buffer (Velir Capital Encirclement):
+        ◦ Trigger: Velir forms Padai Patru Enclave within 2 hexes of Capital.
+        ◦ Counter-Play Window: Targeted Crown gets 1 FULL TURN CYCLE.
+        ◦ Required Response: Launch an Imperial Elephant Siege to destroy and liquidate the enclave before Phase 4 ends.
+1. THE 1-TURN UPHEAVAL BUFFER (CROWN POLITICAL HEGEMONY)
+When a Crown Monarch systematically converts an opponent's highland borders via Padai Veedu / Samanta Swaps, the victim is not instantly eliminated.
+1.1 Trigger Condition
+A player loses their final Allied Velir hex to an opponent's bureaucratic swap or subversion action.
+1.2 Upheaval Phase Execution
+An Upheaval Marker is placed on the board, and the targeted player enters an Upheaval Phase lasting 1 full turn cycle.
+1.3 Required Response (Must fulfill AT LEAST ONE before Phase 4 ends)
+    1. Military Reclamation: Recapture at least 1 Padai Veedu / Samanta tile through direct combat using War Elephants, Cavalry, or Infantry.
+    2. Native Agrarian Revolt: Spend 2 Tamil Bardic Prestige Points to incite a highland revolt, flipping 1 Padai Veedu hex back to a Side A Allied Velir domain.
+1.4 Resolution Outcomes
+    • Success: The Upheaval Marker is removed; the game continues normally.
+    • Failure: The target player suffers instant Political Elimination, and the subverting player claims a Political Hegemony Victory!
+2. THE 1-TURN STATE COLLAPSE BUFFER (VELIR CAPITAL ENCIRCLEMENT)
+When a Velir Chieftain establishes a forward military enclave threatening a Crown Capital, the monarchy receives a brief window to mobilize its royal guard.
+2.1 Trigger Condition
+A Velir player successfully places a Padai Patru Enclave within 2 hexes of a Crown Capital (via Major Action [V-D] or Phase 3 combat victory).
+2.2 State Collapse Window
+A State Collapse Marker is placed on the targeted Crown Capital, granting the monarch 1 full turn cycle to react.
+2.3 Required Response
+The Crown Monarch must launch an Imperial Siege using War Elephants (Kaliru) to defeat the garrison and liquidate the enclave back to Side A.
+2.4 Resolution Outcomes
+    • Success: The enclave is destroyed, state taxes resume, and the Collapse Marker is removed.
+    • Failure: State taxes remain paralyzed, the royal government collapses, and the Velir player achieves an instant Padai Patru Hegemony Victory!
+3. BUFFER COMPARISON SUMMARY TABLE
+Feature / Dimension	1-Turn Upheaval Buffer	1-Turn State Collapse Buffer
+Trigger Event	Loss of final Allied Velir hex to Crown swap	Velir forms Enclave within 2 hexes of Capital
+Affected Player	Crown or Velir losing highland border	Targeted Crown Monarch
+Counter-Play Duration	1 Full Turn Cycle	1 Full Turn Cycle
+Required Action to Save State	Recapture tile via combat OR spend 2 Prestige	Launch Imperial Siege with War Elephants (Kaliru)
+Consequence of Failure	Instant Political Elimination (Crown Hegemony Win)	Instant State Collapse (Velir Hegemony Win)
+
+• TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 19 of 20
+PART 19: THE 4 VICTORY PATHS & MASTER CAPSTONE SYSTEM
+Part 19 defines the four distinct, mutually exclusive Victory Paths in TAMILAKAM. Whether playing in 2–6 player Asymmetric Hegemony Mode or 3-player Imperial Triarchy Mode, the first player (or allied bloc) to satisfy all requirements for ANY single victory path at the end of Phase 4 (Victory Check Phase) immediately wins the game.
+The 4 Victory Paths Overview
+    • ⚔️ 1. Military Annihilation (Capital Breach): Breach and capture an opponent's single-sided Home Delta Capital $\rightarrow$ Reduces Capital DP to 0 in Phase 3 combat.
+    • 📜 2. Political Hegemony (Velir Isolation Checkmate): Convert/absorb all Velir domain tiles on the map $\rightarrow$ Target fails the 1-Turn Upheaval Buffer counter-play.
+    • 🏛️ 3. Monumental Temple Capstone (Cultural Hegemony): Construct the Great Capital Temple $\rightarrow$ Amass 5 Monastic Mutts + 8 Gold Coins + Level 8 Vedic Parity.
+    • 🤝 4. Imperial Dual-Hegemony (Matrimonial Allied Win): Two allied factions control 75% of map tiles + 1 forward Padai Patru Enclave near rival Capital.
+1. PATH 1: MILITARY ANNIHILATION (CAPITAL BREACH)
+This is the direct conquest victory path, available to all factions. It relies on concentrated military power, war beasts, and naval transport to strike at the heart of an enemy state.
+1.1 Requirements & Execution
+    1. Target: Any single-sided Home Delta Capital (Chola Kaveri, Pandya Vaigai, Chera Muziris).
+    2. Execution: Move an army into the Capital hex during Phase 3 and win combat, reducing the Capital's total Defense Rating (Printed 4 DP + Garrison DP) to 0 DP.
+    3. Outcome: The seat falls instantly. The targeted player suffers complete military annihilation and is eliminated from the game. If the victor captures the final remaining enemy capital on the board, they win the game immediately.
+2. PATH 2: POLITICAL HEGEMONY (VELIR ISOLATION CHECKMATE)
+This path represents bureaucratic absorption and territorial encirclement, favored by Crown Monarchs who leverage Agamic land grants, ring-granting, and ritual parity.
+2.1 Requirements & Execution
+    1. Highland Conversion: A Crown player uses Major Action [C] (Padai Veedu / Samanta Swap) or bureaucratic subversion to flip or absorb every Kurinji/Mullai highland tile owned by a target faction, converting them into Side B Samanta Estates.
+    2. Upheaval Trigger: Triggers the 1-Turn Upheaval Buffer against the target player.
+    3. Resolution: If the target player fails to fulfill their counter-play requirement (recapturing a tile or spending 2 Prestige for a revolt) before Phase 4 ends, the target suffers political elimination and the Crown player claims Political Hegemony Victory.
+3. PATH 3: MONUMENTAL TEMPLE CAPSTONE (CULTURAL HEGEMONY)
+This path represents state consolidation through monumental sacral architecture, Agamic consecration, and high monastic patronage. It is a non-military, institutional victory vector.
+3.1 Requirements Matrix
+To declare the Great Capital Temple Capstone Victory during Phase 4, a player must satisfy all four of the following prerequisites simultaneously:
+Prerequisite Dimension	Required Threshold	Verification Method
+1. Monastic Support	5 Active Mutts	5 Mutt Markers on Faction Board (formed via Major Action [F])
+2. Ritual Parity	Level 8+ Vedic Parity	Position on the Vedic Ritual Parity Track
+3. Treasury Wealth	8 Gold Coins	Unspent liquid gold coins in Vault
+4. Agrarian Base	3 Irrigated Kaani Estates	Controlled Side B Irrigated Estates on Marudham tiles
+3.2 Consecration Action
+During Phase 2, a qualifying player spends 8 Gold Coins + 5 Mutt Markers to construct the Great Capital Temple on their Home Capital hex. Upon reaching Phase 4, they achieve an instant Cultural Hegemony Victory!
+4. PATH 4: IMPERIAL DUAL-HEGEMONY (MATRIMONIAL ALLIED WIN)
+This victory path is available to two players bound by a Dynastic Matrimonial Alliance ([V-H]) or a Highland Clan Federation.
+4.1 Requirements & Execution
+    1. Binding Alliance: Both players must have an active, unbroken Matrimonial Alliance or Highland Federation treaty.
+    2. Territorial Dominance: The allied bloc must collectively control at least 75% of all active double-sided hex tiles on the board (Side B flipped tiles or active Allied Velir domains).
+    3. Forward Threat: The alliance must maintain at least 1 active Padai Patru Enclave within 2 hexes of an un-allied rival's Home Capital.
+    4. Outcome: Upon reaching Phase 4, both allied players share a joint victory, establishing a permanent dual-dynastic hegemon over Tamilakam.
+5. MASTER VICTORY PATHS COMPARISON MATRIX
+Victory Path Name	Preferred Factions	Primary Currency / Assets	Counter-Play Mechanism
+1. Military Annihilation	Chera / Heavy Armies	War Elephants, Cavalry, Fleets	High Capital Garrison DP & Tactical Cards
+2. Political Hegemony	Chola / Pandya	Vedic Parity, Énādi Rings, Gold	1-Turn Upheaval Buffer (Combat / Revolt)
+3. Temple Capstone	Pandya / Chola	5 Mutts, Level 8 Parity, 8 Gold	Destroying Irrigated Estates or Mutts
+4. Dual-Hegemony	Velir Blocs / Allies	Matrimonial Alliance, 75% Tiles	Breaking Alliance via Sabai / Combat
+
+• TAMILAKAM: The Crown of the Three Kings
+Consolidated Master Rulebook — Part 20 of 20
+PART 20: FACTION QUICK-REFERENCE GUIDES, SETUP DIAGRAMS, & INDEX
+Part 20 concludes the consolidated master rulebook for TAMILAKAM: The Crown of the Three Kings. It provides quick-reference cheat sheets, starting setup tables, a comprehensive gameplay flow checklist, and an index of core terminology.
+1. FACTION STARTING SETUP CHEAT SHEET
+Use this table during initial board setup to quickly distribute starting resources, units, and initial track positions based on player choices.
+Faction Name	Faction Type	Starting Home Hex / Hub	Starting Vault	Starting Units / Agents	Initial Track Positions
+Chola Dynasty	Crown Monarch	Kaveripattinam / Uraiyur	4 Rice, 2 Gold	1 Vettuva Maravar	Irrigation: Lvl 2; Bardic: Lvl 1; Vedic: Lvl 1
+Pandya Dynasty	Crown Monarch	Korkai / Madurai	2 Rice, 4 Gold	1 Umanar (Salt Agent)	Irrigation: Lvl 1; Bardic: Lvl 1; Vedic: Lvl 2
+Chera Dynasty	Crown Monarch	Muziris / Vanchi	3 Rice, 3 Gold	1 Maanaakkan Cavalry	Irrigation: Lvl 1; Bardic: Lvl 2; Vedic: Lvl 1
+Malaiyaman	Velir Chieftain	Tirukkovilur (Upland)	3 Millet, 2 Gold, 1 Rare	1 Kudi-Vélan	Bardic: Lvl 2; Vedic: Lvl 0
+Irungolar	Velir Chieftain	Ko Nadu (Central Hill)	2 Millet, 3 Gold, 1 Rare	1 Kudi-Vélan	Bardic: Lvl 3; Vedic: Lvl 1
+Vanar	Velir Chieftain	Vannipadam (Forest)	4 Millet, 1 Gold, 1 Rare	1 Eyinar Mercenary	Bardic: Lvl 1; Vedic: Lvl 0
+2. QUICK-REFERENCE TURN CYCLE CHECKLIST
+Print or keep this 4-phase sequence nearby during gameplay to ensure no steps are skipped:
+\n\n\n\n[ PHASE 1: HARVEST & REVENUE ]
+  \n├── 1. Collect Paddy Rice (Crown) & Millet/Livestock (Velir)
+  \n├── 2. Gather Rare Mountain Resources (Velir mountain units)
+  \n├── 3. Collect Gold (Salt Pans, Ports, Nagarams, Titles)
+  \n├── 4. Pay Army Upkeep (Check Valangai Deficits & Mercenary Fees)
+  \n└── 5. Enforce Vault Storage Caps (Excess grain rots!)
+
+\n\n\n\n[ PHASE 2: STRATEGIC ACTIONS ]
+  \n├── Determine Initiative (Highest Tamil Bardic Prestige acts first)
+  \n└── Each player takes EXACTLY 2 Major Actions (Crown A-I / Velir V-A to V-I)
+
+\n\n\n\n[ PHASE 3: MOVEMENT & CAMPAIGN ]
+  \n├── 1. Move Military Units & Merchant Agents (Check MP & terrain costs)
+  \n├── 2. Resolve Soft-Border Cattle Raids (Vetchi) & Interceptions
+  \n├── 3. Resolve Battles (AP vs DP + Secret Tactical Card reveal)
+  \n└── 4. Process Fort Auras (2x DP) & Elephant Sieges (Strip Aura)
+
+\n\n\n\n[ PHASE 4: UPHEAVAL & VICTORY CHECK ]
+  \n├── 1. Reset Tactical Cards & temporary Lock neutralizations
+  \n├── 2. Process 1-Turn Upheaval & State Collapse Buffers
+  \n└── 3. Check All 4 Victory Paths (Annihilation, Hegemony, Temple, Dual-Hegemony)
+3. MASTER TERMINOLOGY INDEX
+    • Agam / Puram: Classical Tamil literary/tactical modes representing internal/strategic (Agam) and martial/warfare (Puram) doctrines.
+    • Énādi: An imperial general co-opted from a highland clan leader via the grant of a royal ring (Mōthiram).
+    • Eyinar: Desert/arid outlaw raiders hired as mercenaries in Palai hexes.
+    • Kaaniyalar: Landed estate owners managing high-yield irrigated farmlands.
+    • Kaliru: Heavy War Elephants capable of stripping fortification defense fields.
+    • Kilar: Native free farm manager operating unimproved lowland paddy fields.
+    • Kudi-Vélan: Highland clan war leader protecting independent Velir domains.
+    • Muvendha Araiyan: Elite imperial prime officer and revenue master commanding river delta taxes.
+    • Muvendhar: The three Crown Monarchs (Chola, Pandya, Chera).
+    • Nagaram: Agamic market guild node yielding gold and commercial supply.
+    • Padai Patru: Forward military enclave established by Velir forces near a Crown Capital.
+    • Pattinam: Coastal overseas port controlling international maritime routes.
+    • Pulavar / Odhuvar: Court poets and bards who generate moral legitimacy and execute court critiques.
+    • Sathan: Inland caravan master connecting highland trade to lowland markets.
+    • Tinai: The 5 classical ecological zones (Marudham, Kurinji, Mullai, Palai, Neithal).
+    • Umanar: Coastal salt merchant elite managing salt pans and fisheries.
+    • Velir: The horizontal highland chieftains (Malaiyaman, Irungolar, Vanar).
+    • Vetchi: Soft-border cattle raiding executed by light mobile forces.
+    • 
